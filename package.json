@@ -1,0 +1,19 @@
+{
+  "name": "almundo-front-test",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.15.4",
+    "ts-node": "^3.3.0"
+  }
+}
