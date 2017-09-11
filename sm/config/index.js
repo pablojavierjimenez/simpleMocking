@@ -6,6 +6,18 @@ const config = {
       "code": '1000',
       "message": "No se encontro este recurso, quiza no haya una carpeta o rchivo en el cuall se encuentren los datos Mockeado"
     },
+    myLevelPath: {
+      first:'/api/:firstLevelPath',
+      second:'/api/:firstLevelPath/:secondLevelPath',
+      third:'/api/:firstLevelPath/:secondLevelPath/:thirdLevelPath',
+      fourth:'/api/:firstLevelPath/:secondLevelPath/:thirdLevelPath/:fourthLevelPath',
+      fifth:'/api/:firstLevelPath/:secondLevelPath/:thirdLevelPath/:fourthLevelPath/:fifthLevelPath',
+      sixth:'/api/:firstLevelPath/:secondLevelPath/:thirdLevelPath/:fourthLevelPath/:fifthLevelPath/:sixthLevelPath',
+      seventh:'/api/:firstLevelPath/:secondLevelPath/:thirdLevelPath/:fourthLevelPath/:fifthLevelPath/:sixthLevelPath/:seventhLevelPath',
+      eighth:'/api/:firstLevelPath/:secondLevelPath/:thirdLevelPath/:fourthLevelPath/:fifthLevelPath/:sixthLevelPath/:seventhLevelPath/:eighthLevelPath',
+      ninth:'/api/:firstLevelPath/:secondLevelPath/:thirdLevelPath/:fourthLevelPath/:fifthLevelPath/:sixthLevelPath/:seventhLevelPath/:eighthLevelPath/:ninth',
+      tenth:'/api/:firstLevelPath/:secondLevelPath/:thirdLevelPath/:fourthLevelPath/:fifthLevelPath/:sixthLevelPath/:seventhLevelPath/:eighthLevelPath/:ninth/:tenth',
+    },
     defaultApiPage : `
     <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
