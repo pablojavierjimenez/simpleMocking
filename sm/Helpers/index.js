@@ -22,14 +22,17 @@ exports.createRequirePath = ( requestParamsObject ) => {
 
 
 let getRequestPath = ( paramsObject ) => {
-  let pathObject= {};
+  let pathObject= {
+    path: CONFIG.baseMockDir
+  };
   let arrayKeys = Object.keys( paramsObject );
+  console.log(arrayKeys+"\n");
 
   for(let i=0; i < arrayKeys.length; i++){
     let key = arrayKeys[i];
     let value = paramsObject[key];
 
-    pathObject.path = CONFIG.baseMockDir + value + '/';
+    pathObject.path = pathObject.path + value + '/';
     pathObject.pathRecursive = pathObject.path + value;
     pathObject.pathLevel = i + 1;
   }
