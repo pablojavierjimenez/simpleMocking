@@ -11,7 +11,9 @@
     "e2e": "ng e2e"
   },
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "cors": "^2.8.4"
+  },
   "devDependencies": {
     "express": "^4.15.4",
     "ts-node": "^3.3.0"

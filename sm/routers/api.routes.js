@@ -13,7 +13,12 @@ const apiDefault = (req, res) => {
 
 
 function apiRoutes (app) {
-
+  app.use(function(req, res, next) {
+    res.header('Access-Control-Allow-Origin', CONFIG.allowDomine + ':' + CONFIG.allowDominePort);
+    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
+    res.header('Access-Control-Allow-Headers', 'Content-Type');
+    next();
+  });
   /* GET api listing. */
   app.route('/api')
   .get(apiDefault);
@@ -59,6 +64,7 @@ function apiRoutes (app) {
     .get(LevelPathController.getData);
 
   app.use(function (req, res, next) {
+
     res.status(404).send(CONFIG.errorMessage);
   })
 };

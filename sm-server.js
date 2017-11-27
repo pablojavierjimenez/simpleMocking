@@ -4,6 +4,7 @@
 const path = require('path');
 const http = require('http');
 const express = require('express');
+const cors = require('cors');
 //const bodyParse = require('body-parse');
 
 /**
@@ -12,16 +13,12 @@ const express = require('express');
 const app = express();
 const apiRoutes = require('./sm/routers/api.routes'); //importing route
 
+//app.use(cors())
+
 /**
  * Set api routes
  */
 apiRoutes(app);
-
-/**
- * Parsers for POST data
- app.use(bodyParser.json());
- app.use(bodyParser.urlencoded({ extended: false }));
- */
 
 /**
  * Point static path to dist

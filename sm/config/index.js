@@ -1,6 +1,8 @@
 
 const config = {
     baseMockDir: './sm-api/',
+    allowDomine: 'http://localhost',
+    allowDominePort: '4200',
     errorMessage: {
       "status":"404",
       "code": '1000',
