@@ -25,7 +25,8 @@ function apiRoutes (app) {
 
   // hotelListController Routes
   app.route(CONFIG.myLevelPath.first)
-    .get(LevelPathController.getData);
+    .get(LevelPathController.getData)
+    .post(LevelPathController.postData);
 
   // Catching rout Level
   app.route(CONFIG.myLevelPath.second)

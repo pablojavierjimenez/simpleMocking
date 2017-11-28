@@ -5,7 +5,7 @@ const path = require('path');
 const http = require('http');
 const express = require('express');
 const cors = require('cors');
-//const bodyParse = require('body-parse');
+const bodyParser = require('body-parser');
 
 /**
  * Get Api Router
@@ -13,8 +13,9 @@ const cors = require('cors');
 const app = express();
 const apiRoutes = require('./sm/routers/api.routes'); //importing route
 
-//app.use(cors())
-
+app.use(cors())
+app.use(bodyParser.json()); // for parsing application/json
+app.use(bodyParser.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
 /**
  * Set api routes
  */

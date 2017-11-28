@@ -44,6 +44,7 @@ let createFilePath = (Obj) => {
   let temporalPath = Obj.path.slice(0, ( Obj.path.length - 1 ) );
   Obj.pathRecursive = Obj.pathRecursive + '.json';
   Obj.path = temporalPath + '.json';
+  Obj.pathPost = temporalPath+ '/index.createdByPost.json';
 
   return Obj;
 };
