@@ -76,5 +76,6 @@ const server = http.createServer(app);
  */
 server.listen(port, () => {
   console.log(`\n baseMockDir: ${CONFIG.baseMockDir}`);
-  console.log(`\n APP running on ${CONFIG.allowDomine}:${port}\n API running on ${CONFIG.allowDomine}:${port}/api`);
+  console.log(`\n baseApiPath: ${CONFIG.baseApiPath}`);
+  console.log(`\n APP running on ${CONFIG.allowDomine}:${port}\n API running on ${CONFIG.allowDomine}:${port}/${CONFIG.baseApiPath}/ping`);
 });

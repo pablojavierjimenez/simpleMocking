@@ -11,7 +11,7 @@ var setUserConfigIfItExist = {
   baseMockDir: () => {
     //expected as default::-> './host/exampleSiteDir/'
     var baseMockDir = `./${DEFAULT_CONFIG.baseHostDir}/${DEFAULT_CONFIG.baseMockDir}/`;
-    return false;
+    return baseMockDir || null;
   },
   staticsDir: () => {
     //expected as default::-> './host/exampleSiteDir/public/'
@@ -19,7 +19,8 @@ var setUserConfigIfItExist = {
     return staticsDir || null;
   },
   baseApiPath: () => {
-    return false;
+    var baseApiPath = (USER_CONFIG.baseApiPath != '') ? `/${USER_CONFIG.baseApiPath}` : `/${DEFAULT_CONFIG.baseApiPath}`;
+    return baseApiPath || null;
   },
   allowDomine: () => {
     var allowDomine = (USER_CONFIG.allowDomine != '') ? USER_CONFIG.allowDomine : DEFAULT_CONFIG.allowDomine;
