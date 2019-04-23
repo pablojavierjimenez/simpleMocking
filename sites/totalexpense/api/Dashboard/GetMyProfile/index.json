@@ -1,0 +1,116 @@
+{
+  "GlobalHeaders": [{
+    "MenuTitle": "Help",
+    "IconUrl": "/TotalExpense/Images/icons/ic_firm_policy.svg",
+    "MaxLines": 5,
+    "Format": "VERTICAL",
+    "MenuCategory": [{
+      "MenuCategoryName": "For GPS Policy & Guidance Advice",
+      "DisplayOrder": 1,
+      "MenuItem": [{
+        "DisplayName": "Ask GPS Compliance Advice",
+        "Url": "https://deloitteus.service-now.com/sp?id=sc_cat_item&sys_id=daf973734fc84340f7a9cf5d0210c7ce",
+        "IconUrl": "",
+        "DisplayOrder": 1,
+        "Type": "LINK"
+      }, {
+        "DisplayName": "Call 1-877-862-6759, select option 2",
+        "Url": "",
+        "IconUrl": "",
+        "DisplayOrder": 2,
+        "Type": "TEXT"
+      }]
+    }, {
+      "MenuCategoryName": "For Technical Help",
+      "DisplayOrder": 2,
+      "MenuItem": [{
+        "DisplayName": "CallCenter at x2222 or 1-800-Deloitte (1-800-335-6488)",
+        "Url": "",
+        "IconUrl": "",
+        "DisplayOrder": 1,
+        "Type": "TEXT"
+      }]
+    }]
+  }, {
+    "MenuTitle": "GPS Guidance",
+    "IconUrl": "/TotalExpense/Images/icons/ic_federal_guidance.svg",
+    "MaxLines": 5,
+    "Format": "VERTICAL",
+    "MenuCategory": [{
+      "MenuCategoryName": "GPS T&E Approval Guides/Guidancesdd",
+      "DisplayOrder": 1,
+      "MenuItem": [{
+        "DisplayName": "Time Approval Quick Reference Guide",
+        "Url": "https://deloittenet.deloitte.com/PC/PracticeComm/Industries/HSG/Federal/Documents/EA/GPSTime/DTE_QRG_TotalTimeApproval.pdf",
+        "IconUrl": "",
+        "DisplayOrder": 1,
+        "Type": "LINK"
+      }, {
+        "DisplayName": "Alternate Approver Quick Reference Guide",
+        "Url": "https://deloittenet.deloitte.com/PC/PracticeComm/Industries/HSG/Federal/Documents/EA/GPSTime/DTE_QRG_AlternatesTotalExpense.pdf",
+        "IconUrl": "",
+        "DisplayOrder": 2,
+        "Type": "LINK"
+      }, {
+        "DisplayName": "Just In Time: Time/Expense Approval",
+        "Url": "https://deloittenet.deloitte.com/PC/PracticeComm/Industries/Documents/GPS Integration/Just In Time - Approvers Final.pdf",
+        "IconUrl": "",
+        "DisplayOrder": 3,
+        "Type": "LINK"
+      }, {
+        "DisplayName": "GPS Guidance on Charging Your Expense",
+        "Url": "https://deloittenet.deloitte.com/PC/PracticeComm/Industries/HSG/Federal/Pages/FederalExpenseChargingGuidance.aspx",
+        "IconUrl": "",
+        "DisplayOrder": 4,
+        "Type": "LINK"
+      }, {
+        "DisplayName": "GPS Guidance on Charging Your Time",
+        "Url": "https://deloittenet.deloitte.com/PC/PracticeComm/Industries/HSG/Federal/Pages/TotalTimeGuidanceoncharging.aspx",
+        "IconUrl": "",
+        "DisplayOrder": 5,
+        "Type": "LINK"
+      }]
+    }, {
+      "MenuCategoryName": "GPS Guidance",
+      "DisplayOrder": 1,
+      "MenuItem": [{
+        "DisplayName": "Ask GPS Compliance Advice",
+        "Url": "https://deloitteus.service-now.com/sp?id=sc_cat_item&sys_id=daf973734fc84340f7a9cf5d0210c7ce",
+        "IconUrl": "",
+        "DisplayOrder": 15,
+        "Type": "LINK"
+      }]
+    }, {
+      "MenuCategoryName": "GPS Policy",
+      "DisplayOrder": 2,
+      "MenuItem": [{
+        "DisplayName": "GPS Time Reporting (DPM34510)",
+        "Url": "https://techlib.deloitte.com/default.aspx?view=content&id=2_327062",
+        "IconUrl": "",
+        "DisplayOrder": 16,
+        "Type": "LINK"
+      }, {
+        "DisplayName": "GPS Expense Reimbursement (DPM34520)",
+        "Url": "https://techlib.deloitte.com/default.aspx?view=content&id=2_327061",
+        "IconUrl": "",
+        "DisplayOrder": 17,
+        "Type": "LINK"
+      }]
+    }]
+  }],
+  "UserId": "BWELSH",
+  "PersonnelNumber": "00141601",
+  "LastName": "Swenson",
+  "FirstName": "Will",
+  "Title": "II-E OP Proofreading",
+  "CompanyName": "Deloitte Services LP",
+  "ProjectViewType": 4,
+  "WbsDisplayType": 2,
+  "Role": 4,
+  "WeekEndingDate": "2019-04-13T00:00:00",
+  "CurrentDate": "2019-04-12T00:00:00",
+  "Currency": "USD",
+  "MyLinks": [],
+  "PendingExpenseApproval": true,
+  "PendingTimeApproval": true
+}

@@ -1,0 +1,187 @@
+
+
+select,
+option{
+        padding: .2em;
+        background: #fff;
+        border-radius: 4px;
+        transition: all 0.3s ease-out;
+        font-size: 1em;
+        text-decoration: none;
+        text-shadow: 0 1px rgba(255, 255, 255, 0.7);
+        font-weight: bold;
+    }
+
+select{
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    background-color: #60bdc9;
+    color: #000000;
+    }
+
+option {
+    margin: .2em;
+    border:none;
+    background: #FFFFFF;
+    color: #000000;
+    }    
+
+button,textarea,
+textarea,
+input[type="button"],
+input[type="password"],
+input[type="submit"],
+input[type="text"],
+input[type="date"],
+input[type="file"]{
+		display: inline-block;
+		margin-left: 8px;
+		padding: 4px 4px;
+		background: #fff;
+		border: 1px solid rgba(0, 0, 0, 0.15);
+		border-radius: 4px;
+		transition: all 0.3s ease-out;
+		text-decoration: none;
+		text-shadow: 0 1px rgba(255, 255, 255, 0.7);
+		font-weight: bold;
+		}
+input[type="file"]{
+	display: block !important;
+	width: 120px !important;
+	height: 30px !important;
+	/*opacity: 0 !important;
+	overflow: hidden !important;*/
+}
+
+
+                
+button,textarea,
+select,
+input[type="password"]:hover,
+input[type="text"]:hover,
+input[type="date"]:hover,
+input[type="file"]:hover{
+    border: thin #999999 outset;
+    filter:alpha(opacity=50);-moz-opacity:.5;opacity:.5;
+    background: #FFFFFF;
+    color: #000000;
+    }
+
+button,textarea,
+input[type="password"]:focus,
+input[type="text"]:focus,
+input[type="date"]:focus,
+input[type="file"]:focus{
+    border: 1px solid rgba(0, 0, 60, 0.25);
+    background-color: #60bdc9;
+    color: #000000;
+    }
+    
+button,textarea,
+input[type="password"]:focus:hover,
+input[type="text"]:focus:hover,
+input[type="date"]:focus:hover,
+input[type="file"]:focus:hover{
+    border: thin #000000 solid;
+    filter:alpha(opacity=100);-moz-opacity:1;opacity:1;
+    background: #FFFFFF;
+    color: #000000;
+    }
+    
+button:hover { background-color: #6390cb; }
+input[type="button"]:hover {background-color: #60bdc9; color:#fff; }
+input[type="submit"]:hover {background-color: #b74ea0; color:#fff; }
+
+div.upload {
+		    width: 124px;
+		    height: 34px;
+		    background: url(http://sirenasxmayor.com.ar/final/img/subir_imagen.png);
+		    overflow: hidden;
+		}
+
+  .boton{	}
+
+  .boton:hover { background-color: #489f49;  }
+
+  #formulario{	
+	}
+        
+  .cajatexto{
+	padding: .4em;
+	margin: .2em;
+	}
+
+  .form-cont{
+ 	padding: .5em;
+ 	margin: 0 auto;
+ 	box-shadow: 2px 1px 5px;
+ 	width: 98%;
+ 	}
+  .label{
+ 	display:inline-block;
+	min-width: 200px;
+        max-width: 40%;
+	margin: .4em;
+ 	}
+
+  .form-input{
+ 	display:inline-block;
+    max-width: 40%;
+	margin: .4em;
+	}
+
+  .falta{
+  		color:#ff2121;
+		display: inline-block;
+		margin:-20px 0 0 8px;
+		padding:.3em;
+		background: #fff;
+		border: 2px solid rgba(255, 0, 0, 0.80);
+		border-radius: 8px 8px 8px 0;
+		transition: all 0.3s ease-out;
+		font-size: .9em;
+		text-decoration: none;
+		/*text-shadow: 0 1px rgba(255, 0, 0, 0.5);*/
+		font-weight: bold;
+		}
+ #enviar-btn{
+	border: 2px solid #000;
+	}
+
+ #agregar:hover{
+	background-color: #ff0606;
+	}
+
+ #imagenesGllery span img {
+	max-width: 300px;
+	max-height: 300px;
+	}
+
+ #imprimir, #imagenesGallery{
+	padding: 2em;
+	}
+
+  .producto{
+	display: inline-block;
+	}
+
+.imagenes-tumb{
+	padding: .8em;
+	width: 80px;
+	height: 80px;
+	}
+table{border: 0px solid #222;}
+tr{
+	border: 1px solid #000;
+	padding: .1em;
+	margin: 0;
+}
+td {
+	border-right: 0px solid #000;
+	padding: .1em;
+	margin: 0;
+	}
+
+.imagenes-tab{
+	width: 50px;
+	height: 50px;
+	}

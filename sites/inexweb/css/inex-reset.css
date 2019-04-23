@@ -1,0 +1,124 @@
+
+applet, basefont, bdi, bdo, center, command, dir, embed, font, keygen, rp, rt, ruby, s, source, track, u, wbr
+{
+  margin: 0;
+  padding: 0;
+font-size: 16px;
+font-weight: normal;
+}
+
+
+a,
+abbr,
+acronym,
+address,
+area,
+article,
+aside,
+audio,
+b,
+base,
+big,
+blockquote,
+br,
+button,
+canvas,
+caption,
+cite,
+code,
+col,
+colgroup,
+datalist,
+dd,
+del,
+details,
+dfn,
+dialog,
+div,
+dl,
+dt,
+em,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+frame,
+frameset,
+head,
+header,
+hgroup,
+hr,
+html,
+i,
+iframe,
+img,
+input,
+ins,
+kbd,
+label,
+legend,
+li,
+link,
+map,
+mark,
+menu,
+meta,
+meter,
+nav,
+noframes,
+noscript,
+object,
+ol,
+optgroup,
+option,
+output,
+p,
+param,
+pre,
+progress,
+q,  
+samp,
+script,
+section,
+select,
+small,
+span,
+strike,
+strong,
+style,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+textarea,
+tfoot,
+th,
+thead,
+time,
+title,  
+tr,
+tt, 
+ul, 
+var,  
+video,h1,h2,h3,h4,h5,h6
+{
+font-size: 14px;
+font-weight: normal;
+line-height: 1.5em;
+list-style: none;
+margin:0;
+padding: 0;
+text-decoration: none;
+}
+
+body{margin: 0;  padding: 0;}
+
+h1{font-size: 2.5em;}
+h2{font-size: 2.1em;}
+h3{font-size: 1.8em;}
+h4{font-size: 1.6em;}
+h5{font-size: 1.4em;}
+h6{font-size: 1.1em;}

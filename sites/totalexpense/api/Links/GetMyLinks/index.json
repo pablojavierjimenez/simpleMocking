@@ -1,0 +1,28 @@
+[{
+  "UrlName": "DTE",
+  "UrlDescription": "https://ddte.deloittenet.com"
+}, {
+  "UrlName": "Legal",
+  "UrlDescription": "https://deloittenet.deloitte.com/system/pages/legal.aspx"
+}, {
+  "UrlName": "Privacy",
+  "UrlDescription": "https://deloittenet.deloitte.com/system/pages/privacy.aspx"
+}, {
+  "UrlName": "Security",
+  "UrlDescription": "https://deloittenet.deloitte.com/system/pages/security.aspx"
+}, {
+  "UrlName": "T&E Home",
+  "UrlDescription": "https://ddte.deloitte.com/te/ExpenseSummary.aspx"
+}, {
+  "UrlName": "Time",
+  "UrlDescription": "https://ddte.deloitte.com/te/TimeDetails.aspx"
+}, {
+  "UrlName": "Expense",
+  "UrlDescription": "https://dexpense.deloitte.com/app/?actingAs=me"
+}, {
+  "UrlName": "Reports",
+  "UrlDescription": "https://ddte.deloitte.com/te/NewsSupportRef.aspx"
+}, {
+  "UrlName": "Total Time",
+  "UrlDescription": "https://ddte.deloitte.com/TotalTime/"
+}]

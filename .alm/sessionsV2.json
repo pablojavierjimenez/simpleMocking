@@ -1,0 +1,49 @@
+{
+  "sessions": [
+    {
+      "id": "df320b21-ca07-429c-be8c-55435f21b1e2",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [
+          {
+            "id": "676f2166-8f0e-444f-90ea-37e23cb6114a",
+            "relativeUrl": "file://./server.js",
+            "additionalData": null
+          },
+          {
+            "id": "4c444633-3f3d-48bd-8c03-07e5cb238f41",
+            "relativeUrl": "file://.gitignore",
+            "additionalData": null
+          },
+          {
+            "id": "5e4cbbbf-a9da-4d64-9ef7-c608779330cf",
+            "relativeUrl": "file://./package.json",
+            "additionalData": null
+          },
+          {
+            "id": "213a6097-1389-43b5-b16e-12592a3fc90c",
+            "relativeUrl": "file://./sm/Helpers/index.js",
+            "additionalData": null
+          },
+          {
+            "id": "25e3a5a4-0201-4ad2-a760-486f13674846",
+            "relativeUrl": "file://./sm/controllers/LevelPath.controlle.js",
+            "additionalData": null
+          },
+          {
+            "id": "4c92a87a-b0c7-4d4a-8e7e-835243db6009",
+            "relativeUrl": "file://./sm/config/index.js",
+            "additionalData": null
+          }
+        ],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1528209216906,
+      "fileTreeExpanded": true,
+      "selectedTabId": "4c92a87a-b0c7-4d4a-8e7e-835243db6009"
+    }
+  ]
+}

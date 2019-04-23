@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+	<title>blog offline</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1"/>
+	<link rel="apple-touch-icon" href="bookmark-icon.png" />
+
+	  <!--LINKS graficos --
+	    <link rel="shortcut icon" href="img/favicon.ico" />
+
+	    <link rel="apple-touch-icon" href="apple-touch-icon-precomposed.png" />
+	    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+	    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+	    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+	  <!-- /*/*/*/*/*/*/ -->
+	
+	  <!--LINKS ESTILOS -->
+	    <link href="http://fonts.googleapis.com/css?family=Francois+One|Open+Sans:400italic,400,800" rel="stylesheet">
+	    <link rel="stylesheet" href="css/inex-reset.css" />
+	    
+	    <link rel="stylesheet" href="css/default.css" />
+	    <link rel="stylesheet" href="css/formularios.css" />
+	    <link rel="stylesheet" href="css/app-menus.css">
+	    <link rel="stylesheet" href="css/mediaquery.css">
+	    <style type="text/css">
+		    .cuerpo {	
+				margin: 0.2%;
+		    	margin-top: 43px;
+		    	width: 98%;
+		    	padding: .2em;
+		    }
+		    .post-container{
+		    	margin: .2em;
+		    	padding:0;
+		    }
+			.post-form{
+				margin: .2em;
+				margin-bottom: 2em;
+				padding: 1em;
+				box-shadow: 0 3px 5px rgba(0, 0, 0, 0.50);
+		    }
+		    input[type="text"]{width: 96%; margin: .4em;}
+		    textarea#contenido-post{width: 96%; margin: .4em;}
+
+		   input[type="file"]  {
+				display: block !important;
+				width: 110px !important;
+				height: 20px !important;
+				opacity: 1 !important;
+				overflow: visible !important;
+			}
+
+		    input[type="button"]{width: 98%; margin: .4em;}
+		    #publidar-btn:hover{text-shadow: 0 3px 5px rgba(0, 0, 0, 0.50);}
+
+		    .post{border-bottom: 1px solid rgba(180,140,150, .4); margin: 1.2em auto; max-height: 200px; overflow: hidden;}
+		    .post-title{font-size: 1.2em; margin: 0 .5em;}
+		    .post-cotenido{margin: 1em;}
+
+			#imgPst-0{ background-image: url('img/placeholder.png');}
+
+			.basic-bg{	
+				background-color: #212121;
+				background-position: center;
+				/* Make the background image cover the area of the <div>, and clip the excess */
+				background-size: cover;
+
+				float: left;
+				margin: .2em;				   
+				margin-right: .5em;
+				width: 80px;   
+			}
+			.post-img {
+				float: left;
+				margin: .2em;				   
+				width: 100%;
+				clip:rect(3px,77px,77px,50px);
+			}
+	    </style>
+	  <!-- /*/*/*/*/*/*/ -->
+
+
+	<!--SCRIPTS Y PLUGINS-->
+	<script type="text/javascript" src='http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js'></script>
+	  <script>
+	  	!window.JQuery && document.write("<script src='js/jquery-min.js'><\/script>");
+	  </script>
+		<script>
+			if (sessionStorage.login=="true")
+				{	
+					console.log('entro al IF');
+					console.log('sessionStorage.login = ' + sessionStorage.login);
+				}
+				else{
+					console.log('entro al ELSE');
+					console.log('entro al else = ' + sessionStorage.login);
+					location.href="index.html";					
+				};
+
+			$(function() {
+
+				var pull 		= $('#mostrar');
+					menu 		= $('nav ul');
+					menuHeight	= menu.height();
+
+				$(pull).on('click', function(e) {
+					e.preventDefault();
+					menu.slideToggle();
+				});
+
+				$(window).resize(function(){
+	        		var w = $(window).width();
+	        		if(w > 320 && menu.is(':hidden')) {
+	        			menu.removeAttr('style');
+	        		}
+	    		});
+			});
+		</script>
+	  <script type="text/javascript" src="js/publicar-post.js" ></script>
+	<!-- /*/*/*/*/*/*/ -->
+
+
+<style>
+  .thumb {
+    height: 40px;
+    height: 40px;
+    border: 1px solid #000;
+    margin: 10px 5px 0 0;
+  }
+</style>
+
+
+
+</head>
+<body>
+	<nav class="clearfix">
+		<ul class="clearfix">
+			<li class='table'><a href="#">Home</a></li>
+			<li><a href="#">perfil</a></li>
+			<li><a href="#">videos</a></li>
+			<li><a href="#">Design</a></li>
+			<li><a href="#">Web 2.0</a></li>
+			<li><a href="#">Tools</a></li>	
+		</ul>
+		<a href="#" id="mostrar">Menu</a>
+	</nav>
+	<section class="cuerpo">
+		<section class='box'>
+			<form action='' method='POST' id='formulario' class='post-form'>
+			    <input type="text" class='post-input' id='titulo-post' name='titulo-post' placeholder="Título" />
+                <br />
+                <textarea class='form-imput' name='contenido-post' id='contenido-post' rows="4" cols="35" placeholder="Que estas flashando..."></textarea>
+                <div>
+                	<input type="file" id="files" name="files[]" />
+					<output id="list"></output>
+				</div>
+				<!--<div id='publidar-btn'>PUBLICAR</div>-->
+			    <input type='button' value='Publicar' id='publidar-btn' class='form-imput publicar right'/>
+			</form>
+		</section>
+		<section id="post-list">
+			<article class="box post">
+				<div class="basic-bg"  id='imgPst-0'><img src="http://img1.jurko.net/wall/paper/donald_duck_4.jpg" alt="" class='post-img'></div>
+				<!--<img src="http://img1.jurko.net/wall/paper/donald_duck_4.jpg" alt="">-->
+				<h2 class='post-title'>esto es titulo1</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, odio, natus, quia, ex et impedit molestias corporis molestiae iure aspernatur possimus quidem qui blanditiis in odit deserunt nam distinctio voluptates.</p>
+			</article>
+		</section>		
+	</section>
+
+
+
+	<footer class='footer-buttom'>
+
+		<ul class="clearfix">
+			<li><a href="#">noticias</a></li>
+			<li><a href="#">timeline</a></li>
+			<li><a href="#">amigos</a></li>
+			<li><a href="#">chat</a></li>
+		</ul>
+
+	</footer>
+</body>
+<script>
+
+</script>
+</html>

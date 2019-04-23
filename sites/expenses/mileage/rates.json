@@ -1,0 +1,14 @@
+[
+  {
+    "rate": "0.5750",
+    "currency": "USDN",
+    "carTypeDescription": "Car",
+    "carTypeCode": 1
+  },
+  {
+    "rate": "0.1755",
+    "currency": "USDN",
+    "carTypeDescription": "Bike",
+    "carTypeCode": 2
+  }
+]

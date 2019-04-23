@@ -1,0 +1,173 @@
+{
+  "reportNumber": "0012182894",
+  "totalAmount": 380.02,
+  "weekInfo": "2015-10-03T00:00:00",
+  "currencyCode": "USD",
+  "manualAmount": 380.02,
+  "manualCurrencyCode": "USD",
+  "amexAmount": 0.00,
+  "amexCurrencyCode": "USD",
+  "clearedPersonalAmount": 0.00,
+  "clearedPersonalCurrencyCode": "",
+  "previousReportNumber": "0012182892",
+  "nextReportNumber": "0012182915",
+  "status": {
+    "code": "PendingApproval",
+    "description": "Pending Approval"
+  },
+  "expenses": [
+    {
+      "wbs": {
+        "splitBy": "A",
+        "codes": [
+          {
+            "share": 100.00,
+            "code": "AOS10043-00-01-0110"
+          }
+        ]
+      },
+      "id": "001",
+      "referenceId": "",
+      "date": "2015-09-23T00:00:00",
+      "expenseType": {
+        "groupCode": "004",
+        "groupDescription": "AUTO",
+        "code": "AU25",
+        "description": "Rental"
+      },
+      "vendorName": "UBER",
+      "isManualExpense": true,
+      "expenseAmount": 100.00,
+      "currencyCode": "USD",
+      "receiptRequired": true,
+      "status": {
+        "code": "PendingApproval",
+        "description": "Pending Approval"
+      }
+    },
+    {
+      "wbs": {
+        "splitBy": "P",
+        "codes": [
+          {
+            "share": 100.00,
+            "code": "AOS10043-00-01-0110"
+          }
+        ]
+      },
+      "id": "003",
+      "referenceId": "",
+      "date": "2015-07-22T00:00:00",
+      "expenseType": {
+        "groupCode": "019",
+        "groupDescription": "MEAL",
+        "code": "ME10",
+        "description": "Business - Client or Non Client"
+      },
+      "vendorName": "UBER",
+      "isManualExpense": true,
+      "expenseAmount": 80.00,
+      "currencyCode": "USD",
+      "receiptRequired": true,
+      "status": {
+        "code": "NotSubmited",
+        "description": "Not Submited"
+      }
+    },
+    {
+      "wbs": {
+        "splitBy": "P",
+        "codes": [
+          {
+            "share": 100.00,
+            "code": "XYZ12497-P1-02-1265"
+          }
+        ]
+      },
+      "id": "006",
+      "referenceId": "",
+      "date": "2015-08-31T00:00:00",
+      "expenseType": {
+        "groupCode": "004",
+        "groupDescription": "AUTO",
+        "code": "AU25",
+        "description": "Rental"
+      },
+      "vendorName": "STARBUCKS COFFEE SAN JOSE",
+      "isManualExpense": true,
+      "expenseAmount": 0.02,
+      "currencyCode": "USD",
+      "receiptRequired": false,
+      "status": {
+        "code": "",
+        "description": ""
+      }
+    },
+    {
+      "wbs": {
+        "splitBy": "P",
+        "codes": [
+          {
+            "share": 100.00,
+            "code": "AOS10043-00-01-0110"
+          },
+          {
+            "share": 100.00,
+            "code": "AOS10043-00-01-0110"
+          }
+        ]
+      },
+      "id": "007",
+      "referenceId": "",
+      "date": "2015-09-23T00:00:00",
+      "expenseType": {
+        "groupCode": "004",
+        "groupDescription": "AUTO",
+        "code": "AU25",
+        "description": "Rental"
+      },
+      "vendorName": "UBER",
+      "isManualExpense": true,
+      "expenseAmount": 100.00,
+      "currencyCode": "USD",
+      "receiptRequired": true,
+      "status": {
+        "code": "NotSubmited",
+        "description": "Not Submited"
+      }
+    },
+    {
+      "wbs": {
+        "splitBy": "P",
+        "codes": [
+          {
+            "share": 100.00,
+            "code": "AOS10043-00-01-0110"
+          },
+          {
+            "share": 100.00,
+            "code": "AOS10043-00-01-0110"
+          }
+        ]
+      },
+      "id": "007",
+      "referenceId": "",
+      "date": "2015-09-23T00:00:00",
+      "expenseType": {
+        "groupCode": "004",
+        "groupDescription": "AUTO",
+        "code": "AU25",
+        "description": "Rental"
+      },
+      "vendorName": "UBER",
+      "isManualExpense": true,
+      "expenseAmount": 100.00,
+      "currencyCode": "USD",
+      "receiptRequired": true,
+      "status": {
+        "code": "NotSubmited",
+        "description": "Not Submited"
+      }
+    }
+  ]
+}

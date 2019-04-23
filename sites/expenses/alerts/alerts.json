@@ -1,0 +1,105 @@
+{
+  "count": 6,
+  "rejectedAlerts": [{
+    "type": "REJECT",
+    "reportNumber": "0012182810",
+    "expenseCount": 2,
+    "description": "2 Expenses",
+    "currency": "USD",
+    "expenseAmount": 428.53,
+    "action": null
+  }],
+  "receiptsNeededAlerts": [{
+      "type": "NEEDED",
+      "reportNumber": "0012182810",
+      "expenseCount": 2,
+      "description": "2 Expenses",
+      "currency": "USD",
+      "expenseAmount": 428.53,
+      "action": null
+    },
+    {
+      "type": "NEEDED",
+      "reportNumber": "0012182620",
+      "expenseCount": 1,
+      "description": "1 Expense",
+      "currency": "USD",
+      "expenseAmount": 150.0,
+      "action": null
+    },
+    {
+      "type": "NEEDED",
+      "reportNumber": "0012182592",
+      "expenseCount": 3,
+      "description": "3 Expenses",
+      "currency": "USD",
+      "expenseAmount": 1440.0,
+      "action": null
+    }
+  ],
+  "reversedAlerts": [{
+    "type": "REVERSED",
+    "reportNumber": "0012182593",
+    "expenseCount": 3,
+    "description": "Your report has been reversed. Bummer.",
+    "currency": "USD",
+    "expenseAmount": 1440.0,
+    "action": null
+  }],
+  "inProcessAlerts": [{
+      "type": "IN_PROCESS",
+      "reportNumber": "0012182593",
+      "expenseCount": 3,
+      "description": "Your report has been reversed. Bummer.",
+      "currency": "USD",
+      "expenseAmount": 1440.0,
+      "action": null
+    },
+    {
+      "type": "IN_PROCESS",
+      "reportNumber": "0012182593",
+      "expenseCount": 3,
+      "description": "Your report has been reversed. Bummer.",
+      "currency": "USD",
+      "expenseAmount": 1440.0,
+      "action": null
+    }
+  ],
+  "notSubmittedAlerts": [{
+      "type": "NOT_SUBMITTED",
+      "reportNumber": "0012182810",
+      "expenseCount": 2,
+      "description": "2 Expenses",
+      "currency": "USD",
+      "expenseAmount": 428.53,
+      "action": null
+    },
+    {
+      "type": "NOT_SUBMITTED",
+      "reportNumber": "0012182620",
+      "expenseCount": 1,
+      "description": "1 Expense",
+      "currency": "USD",
+      "expenseAmount": 150.0,
+      "action": null
+    },
+    {
+      "type": "NOT_SUBMITTED",
+      "reportNumber": "0012182592",
+      "expenseCount": 3,
+      "description": "3 Expenses",
+      "currency": "USD",
+      "expenseAmount": 1440.0,
+      "action": null
+    },
+    {
+      "type": "NOT_SUBMITTED",
+      "reportNumber": "0012182593",
+      "expenseCount": 3,
+      "description": "Your report has been reversed. Bummer.",
+      "currency": "USD",
+      "expenseAmount": 1440.0,
+      "action": null
+    }
+  ]
+}

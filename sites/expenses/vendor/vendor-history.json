@@ -1,0 +1,22 @@
+[
+  {
+    "historyId":"0303456",
+    "value":"Mc Donalds",
+    "isPinned":true
+  },
+  {
+    "historyId":"0303457",
+    "value":"Burger King",
+    "isPinned":false
+  },
+  {
+    "historyId":"0303456",
+    "value":"Subway",
+    "isPinned":true
+  },
+  {
+    "historyId":"0303456",
+    "value":"Test",
+    "isPinned":false
+  }
+]

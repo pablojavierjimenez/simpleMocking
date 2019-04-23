@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=Didact+Gothic);
+
+body {font-family: 'Didact Gothic', sans-serif;}
+
+.label{
+ 	display:inline-block;
+	min-width: 60px;
+	margin: .4em;
+ }
+ .form-input{
+ 	display:inline-block;
+	min-width: 60px;
+	margin: .4em;
+}
+ .form-cont{
+ 	padding: 1em;
+ 	margin: 0 auto;
+ 	width: 50%;
+ 	box-shadow: 2px 1px 5px;
+ }
+ .cajatexto{
+	padding: .4em;
+	margin: .2em;
+}
+#agregar{
+	font-weight: bold;
+	background-color: #aaa;
+	border: 2px solid #000;
+}
+#agregar:hover{
+	background-color: #ff0606;
+}
+ #imagenesGllery span img {
+	max-width: 300px;
+	max-height: 300px;
+}
+
+#imprimir, #imagenesGallery{
+	padding: 2em;
+}
+.producto{
+	display: inline-block;
+}
+.imagenes-tumb{
+	padding: .8em;
+	width: 80px;
+	height: 80px;
+}
+
+td {
+	border: 1px solid #000;
+	padding: .1em;
+	margin: 0;
+	min-width: 100px;
+
+}
+
+.imagenes-tab{
+	width: 50px;
+	height: 50px;
+}

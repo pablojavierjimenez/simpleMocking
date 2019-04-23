@@ -1,0 +1,14 @@
+{
+  recordKey: "20141007USIV1222794512",
+  fareClass: {
+    code: "CCDO",
+    description: "COACH CLASS DOMESTIC ONLY"
+  },
+  traveller: "WADE/MICHAEL A",
+  routing: "LGA/DCA",
+  lowestAvailableAmount: 135.58,
+  variance: 0,
+  maximumFederalAmount: "135.58",
+  faCompliant: "N/A",
+  reason: "ACCEPTED LOWEST AIRFARE"
+}

@@ -1,0 +1,1118 @@
+[
+  {
+    "code": "AFN",
+    "actualExchangeRate": 0.01555,
+    "description": "Afghan New Afghani",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "AFA",
+    "actualExchangeRate": 0.01555,
+    "description": "Afghani",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ALL",
+    "actualExchangeRate": 0.0083,
+    "description": "Albanian Lek",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "DZD",
+    "actualExchangeRate": 0.00954,
+    "description": "Algerian Dinar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ADP",
+    "actualExchangeRate": 0.00537,
+    "description": "Andoran peseta",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ADF",
+    "actualExchangeRate": 1.294,
+    "description": "Andorran Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "AOA",
+    "actualExchangeRate": 0.007428,
+    "description": "Angolan Kwanza",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ARS",
+    "actualExchangeRate": 0.1056,
+    "description": "Argentine Peso",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "AMD",
+    "actualExchangeRate": 0.002114,
+    "description": "Armenian Dram",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "AWG",
+    "actualExchangeRate": 0.5587,
+    "description": "Aruban Guilder",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "AUD",
+    "actualExchangeRate": 0.7249,
+    "description": "Australian Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ATS",
+    "actualExchangeRate": 0.82122,
+    "description": "Austrian Schilling",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "AZM",
+    "actualExchangeRate": 0.000255,
+    "description": "Azerbaijan Manat",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "AZN",
+    "actualExchangeRate": 0.9548,
+    "description": "Azerbaijan Manat",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BSD",
+    "actualExchangeRate": 1.0056,
+    "description": "Bahaman Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BHD",
+    "actualExchangeRate": 2.6694,
+    "description": "Bahrain Dinar",
+    "decimalPlaces": 3
+  },
+  {
+    "code": "BDT",
+    "actualExchangeRate": 0.01313,
+    "description": "Bangladesh Taka",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BBD",
+    "actualExchangeRate": 0.5,
+    "description": "Barbados Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BEF",
+    "actualExchangeRate": 0.82122,
+    "description": "Belgian Franc",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "BZD",
+    "actualExchangeRate": 0.5128,
+    "description": "Belize Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BYR",
+    "actualExchangeRate": 0.00005792,
+    "description": "Belorussian Ruble",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "XOF",
+    "actualExchangeRate": 0.00174,
+    "description": "Benin CFA Franc BCEAO",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BMD",
+    "actualExchangeRate": 1.0,
+    "description": "Bermudan Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BTN",
+    "actualExchangeRate": 0.01539,
+    "description": "Bhutan Ngultrum",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BOB",
+    "actualExchangeRate": 0.1486,
+    "description": "Boliviano",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BAM",
+    "actualExchangeRate": 0.5837,
+    "description": "Bosnia and Herzegovina Convertible Mark",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BWP",
+    "actualExchangeRate": 0.09798,
+    "description": "Botswana Pula",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BRL",
+    "actualExchangeRate": 0.2584,
+    "description": "Brazilian Real",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GBP",
+    "actualExchangeRate": 1.5351,
+    "description": "British Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BND",
+    "actualExchangeRate": 0.729,
+    "description": "Brunei Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BGN",
+    "actualExchangeRate": 0.5853,
+    "description": "Bulgarian Lev",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "BIF",
+    "actualExchangeRate": 0.0006518,
+    "description": "Burundi Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "XPF",
+    "actualExchangeRate": 0.00956,
+    "description": "CFP Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "KHR",
+    "actualExchangeRate": 0.0002496,
+    "description": "Cambodian Riel",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CAD",
+    "actualExchangeRate": 0.7696,
+    "description": "Canadian Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CVE",
+    "actualExchangeRate": 0.01036,
+    "description": "Cape Verde Escudo",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "KYD",
+    "actualExchangeRate": 1.2279,
+    "description": "Cayman Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CLP",
+    "actualExchangeRate": 0.00147,
+    "description": "Chilean Peso",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "CNY",
+    "actualExchangeRate": 0.1578,
+    "description": "Chinese Renminbi",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "COP",
+    "actualExchangeRate": 0.0003505,
+    "description": "Colombian Peso",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "KMF",
+    "actualExchangeRate": 0.00233,
+    "description": "Comoros Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CDF",
+    "actualExchangeRate": 0.001096,
+    "description": "Congolese Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CRC",
+    "actualExchangeRate": 0.00192,
+    "description": "Costa Rica Colon",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "HRK",
+    "actualExchangeRate": 0.1498,
+    "description": "Croatian Kuna",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CUC",
+    "actualExchangeRate": 1.0,
+    "description": "Cuban Convertible Peso",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CUP",
+    "actualExchangeRate": 0.045,
+    "description": "Cuban Peso",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CYP",
+    "actualExchangeRate": 1.9506,
+    "description": "Cyprus Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CZK",
+    "actualExchangeRate": 0.04211,
+    "description": "Czech Krona",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "DKK",
+    "actualExchangeRate": 0.153,
+    "description": "Danish Krone",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "DJF",
+    "actualExchangeRate": 0.00563,
+    "description": "Djibouti Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "DOP",
+    "actualExchangeRate": 0.02222,
+    "description": "Dominican Peso",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "NLG",
+    "actualExchangeRate": 0.82122,
+    "description": "Dutch Guilder",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "XCD",
+    "actualExchangeRate": 0.372,
+    "description": "East Carribean Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ECS",
+    "actualExchangeRate": 0.0000415,
+    "description": "Ecuadorian Sucre",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "EGP",
+    "actualExchangeRate": 0.1281,
+    "description": "Egyptian Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SVC",
+    "actualExchangeRate": 0.1173,
+    "description": "El Salvador Colon",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "EEK",
+    "actualExchangeRate": 0.07296,
+    "description": "Estonian Krone",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ETB",
+    "actualExchangeRate": 0.04824,
+    "description": "Ethiopian Birr",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "XEU",
+    "actualExchangeRate": 1.1416,
+    "description": "European Currency Unit (E.C.U.)",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "EUR",
+    "actualExchangeRate": 1.1416,
+    "description": "European Euro",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "FKP",
+    "actualExchangeRate": 1.5351,
+    "description": "Falkland Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "FJD",
+    "actualExchangeRate": 0.4715,
+    "description": "Fiji Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "FIM",
+    "actualExchangeRate": 0.82122,
+    "description": "Finnish markka",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "FRF",
+    "actualExchangeRate": 0.82122,
+    "description": "French Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CFP",
+    "actualExchangeRate": 0.009562,
+    "description": "French Franc (Pacific Islands)",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "XAF",
+    "actualExchangeRate": 0.00174,
+    "description": "Gabon CFA Franc BEAC",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GMD",
+    "actualExchangeRate": 0.0258,
+    "description": "Gambian Dalasi",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GEL",
+    "actualExchangeRate": 0.4181,
+    "description": "Georgian Lari",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "DEM",
+    "actualExchangeRate": 0.7,
+    "description": "German Mark",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GHC",
+    "actualExchangeRate": 0.0000266,
+    "description": "Ghanian Cedi",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GHS",
+    "actualExchangeRate": 0.2661,
+    "description": "Ghanian New Cedi",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GIP",
+    "actualExchangeRate": 1.5351,
+    "description": "Gibraltar Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GRD",
+    "actualExchangeRate": 0.82122,
+    "description": "Greek Drachma",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GTQ",
+    "actualExchangeRate": 0.1334,
+    "description": "Guatemalan Quetzal",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GNF",
+    "actualExchangeRate": 0.0001392,
+    "description": "Guinean Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "GYD",
+    "actualExchangeRate": 0.00505,
+    "description": "Guyana Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "HTG",
+    "actualExchangeRate": 0.0188,
+    "description": "Haitian Gourde",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "HNL",
+    "actualExchangeRate": 0.04665,
+    "description": "Honduran Lempira",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "HKD",
+    "actualExchangeRate": 0.129,
+    "description": "Hong Kong Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "HUF",
+    "actualExchangeRate": 0.00367,
+    "description": "Hungarian Forint",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "ISK",
+    "actualExchangeRate": 0.00805,
+    "description": "Iceland Krona",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "INR",
+    "actualExchangeRate": 0.0154,
+    "description": "Indian Rupee",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "IDR",
+    "actualExchangeRate": 0.0000738,
+    "description": "Indonesian Rupiah",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "IRR",
+    "actualExchangeRate": 0.0000334,
+    "description": "Iranian Rial",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "IQD",
+    "actualExchangeRate": 0.00087,
+    "description": "Iraqui Dinar",
+    "decimalPlaces": 3
+  },
+  {
+    "code": "IEP",
+    "actualExchangeRate": 0.82122,
+    "description": "Irish Punt",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ILS",
+    "actualExchangeRate": 0.2593,
+    "description": "Israeli Scheckel",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ITL",
+    "actualExchangeRate": 0.82122,
+    "description": "Italian Lira",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "JMD",
+    "actualExchangeRate": 0.0085,
+    "description": "Jamaican Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "JPY",
+    "actualExchangeRate": 0.00837,
+    "description": "Japanese Yen",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "JOD",
+    "actualExchangeRate": 1.4166,
+    "description": "Jordanian Dinar",
+    "decimalPlaces": 3
+  },
+  {
+    "code": "KZT",
+    "actualExchangeRate": 0.003656,
+    "description": "Kazakstanian Tenge",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "KES",
+    "actualExchangeRate": 0.00985,
+    "description": "Kenyan Shilling",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "KWD",
+    "actualExchangeRate": 3.3184,
+    "description": "Kuwaiti Dinar",
+    "decimalPlaces": 3
+  },
+  {
+    "code": "KGS",
+    "actualExchangeRate": 0.01458,
+    "description": "Kyrgyzstan Som",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "LAK",
+    "actualExchangeRate": 0.0001244,
+    "description": "Laotian Kip",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "LVL",
+    "actualExchangeRate": 1.6244,
+    "description": "Latvian Lat",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "LBP",
+    "actualExchangeRate": 0.000669,
+    "description": "Lebanese Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "LSL",
+    "actualExchangeRate": 0.07451,
+    "description": "Lesotho Loti",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "LRD",
+    "actualExchangeRate": 0.01205,
+    "description": "Liberian Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "LYD",
+    "actualExchangeRate": 0.7552,
+    "description": "Libyan Dinar",
+    "decimalPlaces": 3
+  },
+  {
+    "code": "LTL",
+    "actualExchangeRate": 0.3306,
+    "description": "Lithuanian Lita",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "LUF",
+    "actualExchangeRate": 0.82122,
+    "description": "Luxembourg Franc",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "MOP",
+    "actualExchangeRate": 0.1284,
+    "description": "Macao Pataca",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MKD",
+    "actualExchangeRate": 0.01864,
+    "description": "Macedonian Denar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MGA",
+    "actualExchangeRate": 0.0003286,
+    "description": "Malagasy Ariary",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MWK",
+    "actualExchangeRate": 0.00183,
+    "description": "Malawi Kwacha",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MYR",
+    "actualExchangeRate": 0.2386,
+    "description": "Malaysian Ringgit",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MVR",
+    "actualExchangeRate": 0.06686,
+    "description": "Maldive Rufiyaa",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MTL",
+    "actualExchangeRate": 2.6593,
+    "description": "Maltese Lira",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MRO",
+    "actualExchangeRate": 0.00351,
+    "description": "Mauritanian Ouguiya",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MUR",
+    "actualExchangeRate": 0.02933,
+    "description": "Mauritian Rupee",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MXN",
+    "actualExchangeRate": 0.06027,
+    "description": "Mexican Pesos",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MDL",
+    "actualExchangeRate": 0.05156,
+    "description": "Moldavian Leu",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MNT",
+    "actualExchangeRate": 0.0005023,
+    "description": "Mongolian Tugrik",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MAD",
+    "actualExchangeRate": 0.1043,
+    "description": "Moroccan Dirham",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MZN",
+    "actualExchangeRate": 0.02381,
+    "description": "Mozambique New Metical",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "MMK",
+    "actualExchangeRate": 0.00079,
+    "description": "Myanmar Kyat",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "NAD",
+    "actualExchangeRate": 0.07451,
+    "description": "Namibian Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "NPR",
+    "actualExchangeRate": 0.00975,
+    "description": "Nepalese Rupee",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "TWD",
+    "actualExchangeRate": 0.03086,
+    "description": "New Taiwan Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "NZD",
+    "actualExchangeRate": 0.6718,
+    "description": "New Zealand Dollars",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "NIO",
+    "actualExchangeRate": 0.03728,
+    "description": "Nicaraguan Cordoba Oro",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "NGN",
+    "actualExchangeRate": 0.00505,
+    "description": "Nigerian Naira",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "KPW",
+    "actualExchangeRate": 0.00741,
+    "description": "North Korean Won",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "NOK",
+    "actualExchangeRate": 0.1233,
+    "description": "Norwegian Krone",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "OMR",
+    "actualExchangeRate": 2.6055,
+    "description": "Omani Rial",
+    "decimalPlaces": 3
+  },
+  {
+    "code": "PKR",
+    "actualExchangeRate": 0.00969,
+    "description": "Pakistani Rupee",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "PAB",
+    "actualExchangeRate": 1.0,
+    "description": "Panamanian Balboa",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "PGK",
+    "actualExchangeRate": 0.3557,
+    "description": "Papua New Guinea Kina",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "PYG",
+    "actualExchangeRate": 0.0001815,
+    "description": "Paraguayan Guarani",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "PEN",
+    "actualExchangeRate": 0.3153,
+    "description": "Peruvian New Sol",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "PHP",
+    "actualExchangeRate": 0.02177,
+    "description": "Philippine Peso",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "PLN",
+    "actualExchangeRate": 0.2698,
+    "description": "Polish Zloty (new)",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "PTE",
+    "actualExchangeRate": 0.82122,
+    "description": "Portuguese Escudo",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "QAR",
+    "actualExchangeRate": 0.2749,
+    "description": "Qatar Rial",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ROL",
+    "actualExchangeRate": 0.00002587,
+    "description": "Romanian Leu",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "RON",
+    "actualExchangeRate": 0.2587,
+    "description": "Romanian New Leu",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "RUB",
+    "actualExchangeRate": 0.01591,
+    "description": "Russian Ruble",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "RWF",
+    "actualExchangeRate": 0.001441,
+    "description": "Rwandan Franc",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "WST",
+    "actualExchangeRate": 0.4407,
+    "description": "Samoan Tala",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "STD",
+    "actualExchangeRate": 0.0000468,
+    "description": "Sao Tome / Principe Dobra",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SAR",
+    "actualExchangeRate": 0.2669,
+    "description": "Saudi Riyal",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "RSD",
+    "actualExchangeRate": 0.00955,
+    "description": "Serbian Dinar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CSD",
+    "actualExchangeRate": 0.009554,
+    "description": "Serbian Dinar- Old",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SCR",
+    "actualExchangeRate": 0.08116,
+    "description": "Seychelles Rupee",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SLL",
+    "actualExchangeRate": 0.0002706,
+    "description": "Sierra Leone Leone",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SGD",
+    "actualExchangeRate": 0.7198,
+    "description": "Singapore Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SKK",
+    "actualExchangeRate": 0.0379,
+    "description": "Slovakian Krona",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SIT",
+    "actualExchangeRate": 0.00476,
+    "description": "Slovenian Tolar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SBD",
+    "actualExchangeRate": 0.1252,
+    "description": "Solomon Islands Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SOS",
+    "actualExchangeRate": 0.00165,
+    "description": "Somalian Shilling",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ZAR",
+    "actualExchangeRate": 0.07451,
+    "description": "South African Rand",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "KRW",
+    "actualExchangeRate": 0.00087,
+    "description": "South Korean Won",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "ESP",
+    "actualExchangeRate": 0.82122,
+    "description": "Spanish Peseta",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "LKR",
+    "actualExchangeRate": 0.00727,
+    "description": "Sri Lankan Rupee",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SHP",
+    "actualExchangeRate": 1.4794,
+    "description": "St.Helena Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SDD",
+    "actualExchangeRate": 0.001653,
+    "description": "Sudanese Dinar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SDG",
+    "actualExchangeRate": 0.1653,
+    "description": "Sudanese Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SRD",
+    "actualExchangeRate": 0.3077,
+    "description": "Surinam Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SZL",
+    "actualExchangeRate": 0.07451,
+    "description": "Swaziland Lilangeni",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SEK",
+    "actualExchangeRate": 0.1231,
+    "description": "Swedish Krona",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "CHF",
+    "actualExchangeRate": 1.0471,
+    "description": "Swiss Franc",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "SYP",
+    "actualExchangeRate": 0.00454,
+    "description": "Syrian Pound",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "TJS",
+    "actualExchangeRate": 0.1535,
+    "description": "Tajikistani Somoni",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "TZS",
+    "actualExchangeRate": 0.0004684,
+    "description": "Tanzanian Shilling",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "THB",
+    "actualExchangeRate": 0.02822,
+    "description": "Thailand Baht",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "TOP",
+    "actualExchangeRate": 0.4387,
+    "description": "Tongan Pa'anga",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "TTD",
+    "actualExchangeRate": 0.1609,
+    "description": "Trinidad and Tobago Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "TND",
+    "actualExchangeRate": 0.5146,
+    "description": "Tunisian Dinar",
+    "decimalPlaces": 3
+  },
+  {
+    "code": "TRY",
+    "actualExchangeRate": 0.34,
+    "description": "Turkish Lira",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "TMM",
+    "actualExchangeRate": 0.000057,
+    "description": "Turkmenistani Manat",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "UGX",
+    "actualExchangeRate": 0.0002754,
+    "description": "Ugandan Shilling",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "UAH",
+    "actualExchangeRate": 0.04685,
+    "description": "Ukraine Hryvnia",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "AED",
+    "actualExchangeRate": 0.2723,
+    "description": "United Arab Emirates Dirham",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "USD",
+    "actualExchangeRate": 1.0,
+    "description": "United States Dollar",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "UYP",
+    "actualExchangeRate": 24.1371,
+    "description": "Uruguayan Peso",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "UYU",
+    "actualExchangeRate": 0.03499,
+    "description": "Uruguayan Peso (new)",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "VUV",
+    "actualExchangeRate": 0.0092,
+    "description": "Vanuatu Vatu",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "VEB",
+    "actualExchangeRate": 0.00016,
+    "description": "Venezuelan Bolivar (Old)",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "VEF",
+    "actualExchangeRate": 0.159,
+    "description": "Venezuelan Bolivar Fuerte(New)",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "VND",
+    "actualExchangeRate": 0.0000453,
+    "description": "Vietnamese Dong",
+    "decimalPlaces": 0
+  },
+  {
+    "code": "ANG",
+    "actualExchangeRate": 0.5618,
+    "description": "West Indian Guilder",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "YER",
+    "actualExchangeRate": 0.004656,
+    "description": "Yemeni Ryal",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ZMK",
+    "actualExchangeRate": 0.0001932,
+    "description": "Zambian Kwacha",
+    "decimalPlaces": 2
+  },
+  {
+    "code": "ZWD",
+    "actualExchangeRate": 0.00001,
+    "description": "Zimbabwean Dollar",
+    "decimalPlaces": 2
+  }
+]

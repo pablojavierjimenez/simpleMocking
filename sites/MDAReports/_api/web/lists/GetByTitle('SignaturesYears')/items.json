@@ -1,0 +1,54 @@
+{
+  "d": {
+      "results": [
+          {
+              "__metadata": {
+                  "id": "Web/Lists(guid'cb42b0a6-27cd-4c5f-af20-1e80dd09fbeb')/Items(1)",
+                  "uri": "https://ddnet2.hosting.deloitte.com/sites/MDAReports/_api/Web/Lists(guid'cb42b0a6-27cd-4c5f-af20-1e80dd09fbeb')/Items(1)",
+                  "etag": "\"1\"",
+                  "type": "SP.Data.SignaturesYearsListItem"
+              },
+              "Signature": {
+                  "__metadata": {
+                      "id": "4f509a23-ce03-4fa6-86fb-01fa3e63dea6",
+                      "type": "SP.Data.SignaturesListItem"
+                  },
+                  "Id": 1
+              },
+              "Year": {
+                  "__metadata": {
+                      "id": "7e13bc6a-d605-49df-95b8-f0c50d56de25",
+                      "type": "SP.Data.YearsListItem"
+                  },
+                  "Year": "2018"
+              },
+              "Id": 1,
+              "ID": 1
+          },
+          {
+            "__metadata": {
+                "id": "Web/Lists(guid'cb42b0a6-27cd-4c5f-af20-1e80dd09fbeb')/Items(1)",
+                "uri": "https://ddnet2.hosting.deloitte.com/sites/MDAReports/_api/Web/Lists(guid'cb42b0a6-27cd-4c5f-af20-1e80dd09fbeb')/Items(1)",
+                "etag": "\"1\"",
+                "type": "SP.Data.SignaturesYearsListItem"
+            },
+            "Signature": {
+                "__metadata": {
+                    "id": "4f509a23-ce03-4fa6-86fb-01fa3e63dea6",
+                    "type": "SP.Data.SignaturesListItem"
+                },
+                "Id": 3
+            },
+            "Year": {
+                "__metadata": {
+                    "id": "7e13bc6a-d605-49df-95b8-f0c50d56de25",
+                    "type": "SP.Data.YearsListItem"
+                },
+                "Year": "2017"
+            },
+            "Id": 5,
+            "ID": 5
+        }
+      ]
+  }
+}

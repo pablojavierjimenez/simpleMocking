@@ -1,0 +1,667 @@
+
+{
+  "groups": [
+    {
+      "expenseTypes": [
+        {
+          "code": "RC10",
+          "description": "Recruiting - Meals and Entertainment"
+        }
+      ],
+      "code": "029",
+      "description": "RECRUITING - MEALS AND ENTERTA"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "",
+          "description": "Recreation Provided by the US firms"
+        }
+      ],
+      "code": "028",
+      "description": "RECREATION PROVIDED BY THE US"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XW05",
+          "description": "Printing and Copying"
+        },
+        {
+          "code": "PR05",
+          "description": "Printing and Copying"
+        }
+      ],
+      "code": "027",
+      "description": "PRINTING AND COPYING"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XL05",
+          "description": "Postage Express Mail or Courier Service"
+        },
+        {
+          "code": "PO05",
+          "description": "Postage Express Mail or Courier Service"
+        }
+      ],
+      "code": "026",
+      "description": "POSTAGE EXPRESS MAIL OR COURIE"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XE10",
+          "description": "International Travel"
+        },
+        {
+          "code": "PE15",
+          "description": "Federal"
+        },
+        {
+          "code": "PE10",
+          "description": "International Travel"
+        },
+        {
+          "code": "PE05",
+          "description": "Subsistence"
+        },
+        {
+          "code": "",
+          "description": "Standard"
+        }
+      ],
+      "code": "025",
+      "description": "PER DIEM"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "PV05",
+          "description": "Passports and VISA"
+        }
+      ],
+      "code": "024",
+      "description": "PASSPORTS AND VISA"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "OS05",
+          "description": "Office Supplies and Stationery"
+        }
+      ],
+      "code": "023",
+      "description": "OFFICE SUPPLIES AND STATIONERY"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "MS05",
+          "description": "Miscellaneous Expenses"
+        }
+      ],
+      "code": "022",
+      "description": "MISCELLANEOUS EXPENSES"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "",
+          "description": "Mileage"
+        }
+      ],
+      "code": "021",
+      "description": "MILEAGE"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "MT10",
+          "description": "Meeting Facilities"
+        }
+      ],
+      "code": "020",
+      "description": "MEETING FACILITIES"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "MU15",
+          "description": "After Work - Yours"
+        },
+        {
+          "code": "ME55",
+          "description": "Meeting Facilities Cost"
+        },
+        {
+          "code": "ME45",
+          "description": "Firm Sponsored Seminar"
+        },
+        {
+          "code": "ME40",
+          "description": "Employee Recognition and Appreciation"
+        },
+        {
+          "code": "ME35",
+          "description": "Recruiting"
+        },
+        {
+          "code": "ME30",
+          "description": "Career Counseling"
+        },
+        {
+          "code": "ME25",
+          "description": "Meals and Snacks - In office for Employees Only"
+        },
+        {
+          "code": "ME15",
+          "description": "Overtime"
+        },
+        {
+          "code": "ME10",
+          "description": "Business - Client or Non Client"
+        },
+        {
+          "code": "ME05",
+          "description": "Travel - Yours or Other Employee"
+        },
+        {
+          "code": "",
+          "description": "Business - Client or Non Client"
+        }
+      ],
+      "code": "019",
+      "description": "MEAL"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "VSPF",
+          "description": "Spouse or Dependant"
+        },
+        {
+          "code": "VEPF",
+          "description": "Self"
+        }
+      ],
+      "code": "038",
+      "description": "VISA PROCESSING FEE"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "TA10",
+          "description": "US Tax Preparation Assistance"
+        }
+      ],
+      "code": "037",
+      "description": "US TAX PREPARATION ASSISTANCE"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "",
+          "description": "Unknown"
+        }
+      ],
+      "code": "039",
+      "description": "UNKNOWN"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XR20",
+          "description": "Other"
+        },
+        {
+          "code": "TR20",
+          "description": "Other"
+        },
+        {
+          "code": "AI11",
+          "description": "Non-employee or Spouse when Business Required"
+        },
+        {
+          "code": "",
+          "description": "Accompanying Family of India Personnel"
+        }
+      ],
+      "code": "036",
+      "description": "TRAVEL EXPENSES"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XK05",
+          "description": "Other than Meals"
+        },
+        {
+          "code": "TR05",
+          "description": "Train, Subway, Bus, or Other"
+        },
+        {
+          "code": "TI05",
+          "description": "Other than Meals"
+        },
+        {
+          "code": "",
+          "description": "Other than Meals, Taxi, or Car Service"
+        }
+      ],
+      "code": "035",
+      "description": "TIPS"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XT40",
+          "description": "Conference Call"
+        },
+        {
+          "code": "TE60",
+          "description": "PDA, Aircard, or Cell Phone"
+        },
+        {
+          "code": "TE50",
+          "description": "Personal while Traveling"
+        },
+        {
+          "code": "TE10",
+          "description": "Business - Not Cell"
+        },
+        {
+          "code": "",
+          "description": "Business - Not PDA, Aircard, or Cell"
+        }
+      ],
+      "code": "034",
+      "description": "TELEPHONE"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XT05",
+          "description": "Regular"
+        },
+        {
+          "code": "CA11",
+          "description": "Car Service - After Hours Safety"
+        },
+        {
+          "code": "CA10",
+          "description": "Car Service - After Hours Safety"
+        },
+        {
+          "code": "CA05",
+          "description": "Car Service - Limo Service"
+        },
+        {
+          "code": "AT05",
+          "description": "Regular"
+        },
+        {
+          "code": "",
+          "description": "Taxi - Not Car Service"
+        }
+      ],
+      "code": "005",
+      "description": "TAXI"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "SA05",
+          "description": "Spot Awards"
+        }
+      ],
+      "code": "033",
+      "description": "SPOT AWARDS"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "TE61",
+          "description": "Service - Voice and Data"
+        }
+      ],
+      "code": "032",
+      "description": "SERVICE - VOICE AND DATA"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "RE05",
+          "description": "Relocation Expenses"
+        }
+      ],
+      "code": "031",
+      "description": "RELOCATION EXPENSES"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "RE10",
+          "description": "Registration - Meeting, Seminar, Class, or Training"
+        }
+      ],
+      "code": "030",
+      "description": "REGISTRATION - MEETING, SEMINA"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "MA05",
+          "description": "Marketing and Other Professional Expenses"
+        },
+        {
+          "code": "LI10",
+          "description": "Other Professional Certification"
+        },
+        {
+          "code": "LI05",
+          "description": "CPA"
+        }
+      ],
+      "code": "018",
+      "description": "LICENSE FEES"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "RC10",
+          "description": "Recruiting"
+        },
+        {
+          "code": "EN10",
+          "description": "Firm Personnel"
+        },
+        {
+          "code": "EN05",
+          "description": "Client, Potential Client, or Business Associate"
+        },
+        {
+          "code": "",
+          "description": "US Firms Personnel Only"
+        }
+      ],
+      "code": "011",
+      "description": "ENTERTAINMENT"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "DU40",
+          "description": "Professional and Trade Societies"
+        },
+        {
+          "code": "DU30",
+          "description": "Airline or Hotel Clubs"
+        },
+        {
+          "code": "DU10",
+          "description": "Luncheon Club"
+        },
+        {
+          "code": "DU05",
+          "description": "Country Club"
+        },
+        {
+          "code": "",
+          "description": "Civic Organisation"
+        }
+      ],
+      "code": "010",
+      "description": "DUES"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "CO10",
+          "description": "Courier"
+        }
+      ],
+      "code": "009",
+      "description": "COURIER"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "CO05",
+          "description": "Computer Accessories"
+        }
+      ],
+      "code": "008",
+      "description": "COMPUTER ACCESSORIES"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "BO05",
+          "description": "Book, Trade, Journal, or Magazine"
+        }
+      ],
+      "code": "007",
+      "description": "BOOK, TRADE, JOURNAL, OR MAGAZ"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "IA05",
+          "description": "BCP Internet Access Fee"
+        }
+      ],
+      "code": "006",
+      "description": "BCP INTERNET ACCESS FEE"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XU20",
+          "description": "Rental Gasoline"
+        },
+        {
+          "code": "XU10",
+          "description": "Parking - Travel"
+        },
+        {
+          "code": "AU35",
+          "description": "Auto Tolls"
+        },
+        {
+          "code": "AU25",
+          "description": "Rental"
+        },
+        {
+          "code": "AU20",
+          "description": "Rental Gasoline"
+        },
+        {
+          "code": "AU18",
+          "description": "Parking - Weekend or Holiday"
+        },
+        {
+          "code": "AU17",
+          "description": "Parking - Weekend or Holiday"
+        },
+        {
+          "code": "AU15",
+          "description": "Parking - Local"
+        },
+        {
+          "code": "AU10",
+          "description": "Parking - Travel"
+        }
+      ],
+      "code": "004",
+      "description": "AUTO"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "AP10",
+          "description": "Taxable"
+        },
+        {
+          "code": "AP05",
+          "description": "Exempt"
+        },
+        {
+          "code": "",
+          "description": "Not Taxable"
+        }
+      ],
+      "code": "003",
+      "description": "APARTMENT"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "AI10",
+          "description": "Other - Transport or Transfer"
+        },
+        {
+          "code": "",
+          "description": "Other - Airfare and Ground Transportation"
+        }
+      ],
+      "code": "002",
+      "description": "ALTERNATE TRAVEL"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "LE05",
+          "description": "Learning Vouchers"
+        }
+      ],
+      "code": "017",
+      "description": "LEARNING VOUCHERS"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "II05",
+          "description": "Internet Access while Travelling"
+        }
+      ],
+      "code": "016",
+      "description": "INTERNET ACCESS WHILE TRAVELLI"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XI05",
+          "description": "Hotel Internet Access"
+        },
+        {
+          "code": "XD10",
+          "description": "Hotel Tax"
+        },
+        {
+          "code": "XD05",
+          "description": "Hotel or Other Lodging - Daily Room Rate"
+        },
+        {
+          "code": "HO05",
+          "description": "Hotel or Other Lodging - Daily Room Rate"
+        },
+        {
+          "code": "HI05",
+          "description": "Hotel Internet Access"
+        }
+      ],
+      "code": "015",
+      "description": "HOTEL"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "HE10",
+          "description": "Health Club while Travelling"
+        },
+        {
+          "code": "HE05",
+          "description": "Health and Fitness Subsidy"
+        }
+      ],
+      "code": "014",
+      "description": "HEALTH"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "GI20",
+          "description": "Client,Recruit,or Other"
+        },
+        {
+          "code": "GI15",
+          "description": "US Firm Personnel - Non perishable Items"
+        },
+        {
+          "code": "FL05",
+          "description": "Flowers or Perishable Gift Basket"
+        }
+      ],
+      "code": "013",
+      "description": "GIFT"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XB05",
+          "description": "Baggage Fees"
+        },
+        {
+          "code": "XA05",
+          "description": "Airfare - Business Travel"
+        },
+        {
+          "code": "AI05",
+          "description": "Airfare - Business Travel"
+        },
+        {
+          "code": "AB05",
+          "description": "Baggage Fees"
+        }
+      ],
+      "code": "001",
+      "description": "FLIGHT"
+    },
+    {
+      "expenseTypes": [
+        {
+          "code": "XP05",
+          "description": "Federal Practice Alcohol"
+        },
+        {
+          "code": "TE64",
+          "description": "Equipment and Accesories"
+        },
+        {
+          "code": "TE62",
+          "description": "Equipment - One Time PDA Charge"
+        },
+        {
+          "code": "FP05",
+          "description": "Federal Practice Alcohol"
+        },
+        {
+          "code": "FI05",
+          "description": "Firm Provided Recreation"
+        },
+        {
+          "code": "FA05",
+          "description": "FAX"
+        },
+        {
+          "code": "",
+          "description": "Equipment - Recurring PDA Charge (T-Mobile users Only)"
+        }
+      ],
+      "code": "012",
+      "description": "EQUIPMENT"
+    }
+  ]
+}

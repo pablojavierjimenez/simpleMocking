@@ -1,0 +1,350 @@
+{
+  [
+    {
+      "id": 1000001208,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "",
+      "amount": null,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "",
+      "createdAt": "2015-10-27T08:10:28",
+      "updatedAt": "2015-10-27T08:10:28",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002660",
+          "content": null,
+          "fileName": "green.jpg",
+          "fileType": "JPEG",
+          "fileSize": 8,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-27T08:10:28"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001209,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "",
+      "amount": null,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "",
+      "createdAt": "2015-10-27T08:10:38",
+      "updatedAt": "2015-10-27T08:10:38",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002661",
+          "content": null,
+          "fileName": "blue.jpg",
+          "fileType": "JPEG",
+          "fileSize": 8,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-27T08:10:38"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001210,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "",
+      "amount": null,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "",
+      "createdAt": "2015-10-27T08:10:43",
+      "updatedAt": "2015-10-27T08:10:43",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002662",
+          "content": null,
+          "fileName": "red.jpg",
+          "fileType": "JPEG",
+          "fileSize": 7,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-27T08:10:43"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001221,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "dem",
+      "amount": null,
+      "location": "",
+      "attachState": "NonAttachable",
+      "statusText": "Not Attachable",
+      "notes": "",
+      "createdAt": "2015-10-27T14:17:02",
+      "updatedAt": "2015-10-27T14:17:03",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002676",
+          "content": null,
+          "fileName": "demo.txt",
+          "fileType": "TXT",
+          "fileSize": 0,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0012182970",
+        "date": "2015-10-27T14:17:02"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001225,
+      "vendor": "Vanesaa",
+      "purchaseDate": "2015-10-27T00:00:00",
+      "name": "Receipt 1000001225 - October 27,2015",
+      "amount": 100.0,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "Jp a q",
+      "createdAt": "2015-10-27T20:06:41",
+      "updatedAt": "2015-10-27T20:07:12",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002682",
+          "content": null,
+          "fileName": "image.jpg",
+          "fileType": "JPG",
+          "fileSize": 180,
+          "hasPreview": false
+        },
+        {
+          "position": 0,
+          "id": "0000002683",
+          "content": null,
+          "fileName": "image.jpg",
+          "fileType": "JPG",
+          "fileSize": 185,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-27T20:06:41"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001226,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "Receipt 1000001226 - October 27,2015",
+      "amount": null,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "",
+      "createdAt": "2015-10-27T20:09:24",
+      "updatedAt": null,
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002684",
+          "content": null,
+          "fileName": "image.jpg",
+          "fileType": "JPG",
+          "fileSize": 189,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-27T20:09:24"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001227,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "Receipt 1000001227 - October 27,2015",
+      "amount": null,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "",
+      "createdAt": "2015-10-27T20:17:12",
+      "updatedAt": null,
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002685",
+          "content": null,
+          "fileName": "image.jpg",
+          "fileType": "JPG",
+          "fileSize": 182,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-27T20:17:12"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001228,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "Receipt 1000001228 - October 27,2015",
+      "amount": null,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "",
+      "createdAt": "2015-10-27T20:18:01",
+      "updatedAt": "2015-10-27T20:18:14",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002686",
+          "content": null,
+          "fileName": "image.jpg",
+          "fileType": "JPG",
+          "fileSize": 193,
+          "hasPreview": false
+        },
+        {
+          "position": 0,
+          "id": "0000002687",
+          "content": null,
+          "fileName": "image.jpg",
+          "fileType": "JPG",
+          "fileSize": 201,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-27T20:18:01"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001229,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "",
+      "amount": null,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "",
+      "createdAt": "2015-10-28T00:03:53",
+      "updatedAt": "2015-10-28T00:03:53",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002688",
+          "content": null,
+          "fileName": "Blue City.jpg",
+          "fileType": "JPEG",
+          "fileSize": 721,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-28T00:03:53"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001230,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "",
+      "amount": null,
+      "location": "",
+      "attachState": "NonAttachable",
+      "statusText": "Not Attachable",
+      "notes": "",
+      "createdAt": "2015-10-28T05:52:20",
+      "updatedAt": "2015-10-28T14:34:50",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002689",
+          "content": null,
+          "fileName": "TEST",
+          "fileType": "PDF",
+          "fileSize": 0,
+          "hasPreview": false
+        },
+        {
+          "position": 0,
+          "id": "0000002691",
+          "content": null,
+          "fileName": "iphone6-plus-box-space-gray-2014.jpg",
+          "fileType": "JPG",
+          "fileSize": 60,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0012182970",
+        "date": "2015-10-28T05:52:20"
+      },
+      "importedBy": "W"
+    },
+    {
+      "id": 1000001231,
+      "vendor": "",
+      "purchaseDate": null,
+      "name": "jp",
+      "amount": null,
+      "location": "",
+      "attachState": "Attachable",
+      "statusText": "Attachable",
+      "notes": "",
+      "createdAt": "2015-10-28T09:17:39",
+      "updatedAt": "2015-10-28T14:34:10",
+      "files": [
+        {
+          "position": 0,
+          "id": "0000002690",
+          "content": null,
+          "fileName": "kitten_stock___looking_scared_by_gracies_stock.jpg",
+          "fileType": "JPEG",
+          "fileSize": 542,
+          "hasPreview": false
+        }
+      ],
+      "associatedReport": {
+        "number": "0000000000",
+        "date": "2015-10-28T09:17:39"
+      },
+      "importedBy": "W"
+    }
+  ]
+}

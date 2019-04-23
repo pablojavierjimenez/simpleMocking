@@ -1,4 +1,3 @@
-
 const CONFIG = require('../config');
 const FILE_SYSTEM = require('fs');
 
@@ -7,28 +6,28 @@ const FILE_SYSTEM = require('fs');
  * Create Required Path
  * @param {*} requestParamsObject
  */
-exports.createRequirePath = ( requestParamsObject ) => {
+exports.createRequirePath = (requestParamsObject) => {
 
   let final = {};
 
-  final = getRequestPath( requestParamsObject );
+  final = getRequestPath(requestParamsObject);
 
-  final = createFilePath( final );
+  final = createFilePath(final);
 
-  final = checkIfFileExist( final );
+  final = checkIfFileExist(final);
 
   return final;
 };
 
 
-let getRequestPath = ( paramsObject ) => {
-  let pathObject= {
+let getRequestPath = (paramsObject) => {
+  let pathObject = {
     path: CONFIG.baseMockDir
   };
-  let arrayKeys = Object.keys( paramsObject );
-  console.log(arrayKeys+"\n");
+  let arrayKeys = Object.keys(paramsObject);
+  console.log('arraykey', arrayKeys+"\n");
 
-  for(let i=0; i < arrayKeys.length; i++){
+  for (let i = 0; i < arrayKeys.length; i++) {
     let key = arrayKeys[i];
     let value = paramsObject[key];
 
@@ -41,27 +40,22 @@ let getRequestPath = ( paramsObject ) => {
 };
 
 let createFilePath = (Obj) => {
-  let temporalPath = Obj.path.slice(0, ( Obj.path.length - 1 ) );
+  let temporalPath = Obj.path.slice(0, (Obj.path.length - 1));
   Obj.pathRecursive = Obj.pathRecursive + '.json';
   Obj.path = temporalPath + '.json';
-  Obj.pathPost = temporalPath+ '/index.createdByPost.json';
+  Obj.pathPost = temporalPath + '.createdByPost.json';
 
   return Obj;
 };
 
 let checkIfFileExist = (obj) => {
-
-  if ( FILE_SYSTEM.existsSync( obj.pathRecursive ) )
-  {
+  console.log('checkiffileexist', obj);
+  if (FILE_SYSTEM.existsSync(obj.pathRecursive)) {
     obj.path = obj.pathRecursive;
-  }
-  else if ( !FILE_SYSTEM.existsSync( obj.path ) )
-  {
-    let temporalPath = obj.path.slice(0, ( obj.path.length - 5 ) );
+  } else if (!FILE_SYSTEM.existsSync(obj.path)) {
+    let temporalPath = obj.path.slice(0, (obj.path.length - 5));
     obj.path = temporalPath + '/index.json';
-  }
-  else
-  {
+  } else {
     console.log('ninguno EXISTE ¯\\_(o_O)_/¯  ¯\\_(0_0)_/¯  ¯\\_(ಥ_ಥ)_/¯ ');
   }
 

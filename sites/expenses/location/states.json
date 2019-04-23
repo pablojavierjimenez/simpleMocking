@@ -1,0 +1,218 @@
+[
+  {
+    "code": "AK",
+    "name": "ALASKA"
+  },
+  {
+    "code": "AL",
+    "name": "ALABAMA"
+  },
+  {
+    "code": "AR",
+    "name": "ARKANSAS"
+  },
+  {
+    "code": "AZ",
+    "name": "ARIZONA"
+  },
+  {
+    "code": "CA",
+    "name": "CALIFORNIA"
+  },
+  {
+    "code": "CO",
+    "name": "COLORADO"
+  },
+  {
+    "code": "CT",
+    "name": "CONNECTICUT"
+  },
+  {
+    "code": "DC",
+    "name": "DISTRICT OF COLUMBIA"
+  },
+  {
+    "code": "DE",
+    "name": "DELAWARE"
+  },
+  {
+    "code": "FL",
+    "name": "FLORIDA"
+  },
+  {
+    "code": "GA",
+    "name": "GEORGIA"
+  },
+  {
+    "code": "HI",
+    "name": "HAWAII"
+  },
+  {
+    "code": "IA",
+    "name": "IOWA"
+  },
+  {
+    "code": "ID",
+    "name": "IDAHO"
+  },
+  {
+    "code": "IL",
+    "name": "ILLINOIS"
+  },
+  {
+    "code": "IN",
+    "name": "INDIANA"
+  },
+  {
+    "code": "KS",
+    "name": "KANSAS"
+  },
+  {
+    "code": "KY",
+    "name": "KENTUCKY"
+  },
+  {
+    "code": "LA",
+    "name": "LOUISIANA"
+  },
+  {
+    "code": "MA",
+    "name": "MASSACHUSETTS"
+  },
+  {
+    "code": "MD",
+    "name": "MARYLAND"
+  },
+  {
+    "code": "ME",
+    "name": "MAINE"
+  },
+  {
+    "code": "MI",
+    "name": "MICHIGAN"
+  },
+  {
+    "code": "MN",
+    "name": "MINNESOTA"
+  },
+  {
+    "code": "MO",
+    "name": "MISSOURI"
+  },
+  {
+    "code": "MQ",
+    "name": "MIDWAY ISLANDS"
+  },
+  {
+    "code": "MS",
+    "name": "MISSISSIPPI"
+  },
+  {
+    "code": "MT",
+    "name": "MONTANA"
+  },
+  {
+    "code": "NC",
+    "name": "NORTH CAROLINA"
+  },
+  {
+    "code": "ND",
+    "name": "NORTH DAKOTA"
+  },
+  {
+    "code": "NE",
+    "name": "NEBRASKA"
+  },
+  {
+    "code": "NH",
+    "name": "NEW HAMPSHIRE"
+  },
+  {
+    "code": "NJ",
+    "name": "NEW JERSEY"
+  },
+  {
+    "code": "NM",
+    "name": "NEW MEXICO"
+  },
+  {
+    "code": "NV",
+    "name": "NEVADA"
+  },
+  {
+    "code": "NY",
+    "name": "NEW YORK"
+  },
+  {
+    "code": "OH",
+    "name": "OHIO"
+  },
+  {
+    "code": "OK",
+    "name": "OKLAHOMA"
+  },
+  {
+    "code": "OR",
+    "name": "OREGON"
+  },
+  {
+    "code": "OT",
+    "name": "VIRGINIA"
+  },
+  {
+    "code": "PA",
+    "name": "PENNSYLVANIA"
+  },
+  {
+    "code": "RI",
+    "name": "RHODE ISLAND"
+  },
+  {
+    "code": "SC",
+    "name": "SOUTH CAROLINA"
+  },
+  {
+    "code": "SD",
+    "name": "SOUTH DAKOTA"
+  },
+  {
+    "code": "TN",
+    "name": "TENNESSEE"
+  },
+  {
+    "code": "TX",
+    "name": "TEXAS"
+  },
+  {
+    "code": "UT",
+    "name": "UTAH"
+  },
+  {
+    "code": "VA",
+    "name": "VIRGINIA"
+  },
+  {
+    "code": "VT",
+    "name": "VERMONT"
+  },
+  {
+    "code": "WA",
+    "name": "WASHINGTON"
+  },
+  {
+    "code": "WI",
+    "name": "WISCONSIN"
+  },
+  {
+    "code": "WQ",
+    "name": "WAKE ISLANDS"
+  },
+  {
+    "code": "WV",
+    "name": "WEST VIRGINIA"
+  },
+  {
+    "code": "WY",
+    "name": "WYOMING"
+  }
+]

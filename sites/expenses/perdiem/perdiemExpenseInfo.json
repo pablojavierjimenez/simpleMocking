@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2015-01-01T00:00:00",
+    "location": "US",
+    "isTravelDay": false,
+    "breakfastAmount": 12.00,
+    "lunchAmount": 18.00,
+    "dinnerAmount": 36.00,
+    "incidentalAmount": 5.00,
+    "totalAmount": 71.00
+  },
+  {
+    "date": "2015-01-02T00:00:00",
+    "location": "US",
+    "isTravelDay": false,
+    "breakfastAmount": 12.00,
+    "lunchAmount": 18.00,
+    "dinnerAmount": 36.00,
+    "incidentalAmount": 5.00,
+    "totalAmount": 71.00
+  },
+  {
+    "date": "2015-01-03T00:00:00",
+    "location": "US",
+    "isTravelDay": false,
+    "breakfastAmount": 12.00,
+    "lunchAmount": 18.00,
+    "dinnerAmount": 36.00,
+    "incidentalAmount": 5.00,
+    "totalAmount": 71.00
+  },
+  {
+    "date": "2015-01-04T00:00:00",
+    "location": "US",
+    "isTravelDay": false,
+    "breakfastAmount": 12.00,
+    "lunchAmount": 18.00,
+    "dinnerAmount": 36.00,
+    "incidentalAmount": 5.00,
+    "totalAmount": 71.00
+  },
+  {
+    "date": "2015-01-05T00:00:00",
+    "location": "US",
+    "isTravelDay": false,
+    "breakfastAmount": 12.00,
+    "lunchAmount": 18.00,
+    "dinnerAmount": 36.00,
+    "incidentalAmount": 5.00,
+    "totalAmount": 71.00
+  },
+  {
+    "date": "2015-01-06T00:00:00",
+    "location": "US",
+    "isTravelDay": false,
+    "breakfastAmount": 12.00,
+    "lunchAmount": 18.00,
+    "dinnerAmount": 36.00,
+    "incidentalAmount": 5.00,
+    "totalAmount": 71.00
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2015-09-05T00:00:00",
+    "number": "0012182823",
+    "status": "Processed",
+    "totalAmount": 4.09,
+    "currencyCode": "USD",
+    "receiptStatus": false,
+    "ItemCount": 1
+  },
+  {
+    "date": "2015-09-05T00:00:00",
+    "number": "0012182822",
+    "status": "Rejected",
+    "totalAmount": 110.75,
+    "currencyCode": "USD",
+    "receiptStatus": false,
+    "ItemCount": 3
+  },
+  {
+    "date": "2015-09-12T00:00:00",
+    "number": "0012182830",
+    "status": "Pending Approval",
+    "totalAmount": 0,
+    "currencyCode": "USD",
+    "receiptStatus": false,
+    "ItemCount": 1
+  },
+  {
+    "date": "2015-09-19T00:00:00",
+    "number": "0012182849",
+    "status": "Not Submitted",
+    "totalAmount": 0,
+    "currencyCode": "USD",
+    "receiptStatus": false,
+    "ItemCount": 0
+  }
+]

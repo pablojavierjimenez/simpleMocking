@@ -1,0 +1,319 @@
+{
+  "totalCount": 13,
+  "totalAmount": 4995.38,
+  "currencyCode": "USD",
+  "expenses": [
+    {
+      "date": "2015-09-20T00:00:00Z",
+      "vendorName": "COURTYARD 2X6 SUNNYVALE150112150115",
+      "expenseType": {
+        "groupCode": "015",
+        "groupDescription": "HOTEL",
+        "code": "HO05",
+        "description": "Hotel or Other Lodging - Daily Room Rate"
+      },
+      "originalAmount": 1604.10,
+      "originalCurrencyCode": "USD",
+      "localAmount": 1604.10,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-09-20T00:00:00Z",
+      "vendorName": "COURTYARD 2X6 SUNNYVALE150112150115",
+      "expenseType": {
+        "groupCode": "015",
+        "groupDescription": "HOTEL",
+        "code": "HI05",
+        "description": "Hotel Internet Access"
+      },
+      "originalAmount": 19.99,
+      "originalCurrencyCode": "USD",
+      "localAmount": 19.99,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-09-13T03:17:36Z",
+      "vendorName": "AMAZON",
+      "expenseType": {
+        "groupCode": "022",
+        "groupDescription": "MISCELLANEOUS EXPENSES",
+        "code": "MS05",
+        "description": "Miscellaneous Expenses"
+      },
+      "originalAmount": 80.45,
+      "originalCurrencyCode": "USD",
+      "localAmount": 80.45,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-09-13T03:17:36Z",
+      "vendorName": "CHIPOTLE",
+      "expenseType": {
+        "groupCode": "019",
+        "groupDescription": "MEAL",
+        "code": "ME35",
+        "description": "Recruiting"
+      },
+      "originalAmount": 43.67,
+      "originalCurrencyCode": "USD",
+      "localAmount": 43.67,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-09-03T03:17:36Z",
+      "vendorName": "BOB'S BURGERS",
+      "expenseType": {
+        "groupCode": "019",
+        "groupDescription": "MEAL",
+        "code": "ME15",
+        "description": "After Work - Yours"
+      },
+      "originalAmount": 10.24,
+      "originalCurrencyCode": "USD",
+      "localAmount": 10.24,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-10-03T03:17:36Z",
+      "vendorName": "METROPOLITAN GRILL",
+      "expenseType": {
+        "groupCode": "019",
+        "groupDescription": "MEAL",
+        "code": "ME10",
+        "description": "Business - Client or Non Client"
+      },
+      "originalAmount": 453.67,
+      "originalCurrencyCode": "USD",
+      "localAmount": 453.67,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-10-03T03:17:36Z",
+      "vendorName": "DANIELS BROILER",
+      "expenseType": {
+        "groupCode": "019",
+        "groupDescription": "MEAL",
+        "code": "ME10",
+        "description": "Business - Client or Non Client"
+      },
+      "originalAmount": 240.24,
+      "originalCurrencyCode": "USD",
+      "localAmount": 240.24,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-07-03T03:17:36Z",
+      "vendorName": "VERIZON",
+      "expenseType": {
+        "groupCode": "034",
+        "groupDescription": "TELEPHONE",
+        "code": "TE11",
+        "description": "PDA, Aircard, or Cell Phone"
+      },
+      "originalAmount": 53.67,
+      "originalCurrencyCode": "USD",
+      "localAmount": 53.67,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-07-03T03:17:36Z",
+      "vendorName": "APPLE, INC.",
+      "expenseType": {
+        "groupCode": "008",
+        "groupDescription": "COMPUTER ACCESSORIES",
+        "code": "CO05",
+        "description": "Computer Accessories"
+      },
+      "originalAmount": 103.67,
+      "originalCurrencyCode": "USD",
+      "localAmount": 103.67,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-07-10T03:17:36Z",
+      "vendorName": "Yellow Taxi",
+      "expenseType": {
+        "groupCode": "005",
+        "groupDescription": "TAXI",
+        "code": "TA05",
+        "description": "Taxi (Only)"
+      },
+      "originalAmount": 40.24,
+      "originalCurrencyCode": "USD",
+      "localAmount": 40.24,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-05-05T03:17:36Z",
+      "vendorName": "24 HOUR FITNESS",
+      "expenseType": {
+        "groupCode": "014",
+        "groupDescription": "HEALTH",
+        "code": "HE05",
+        "description": "Health and Fitness Subsidy"
+      },
+      "originalAmount": 153.67,
+      "originalCurrencyCode": "USD",
+      "localAmount": 153.67,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-05-25T03:17:36Z",
+      "vendorName": "REI",
+      "expenseType": {
+        "groupCode": "014",
+        "groupDescription": "HEALTH",
+        "code": "HE05",
+        "description": "Health and Fitness Subsidy"
+      },
+      "originalAmount": 77.00,
+      "originalCurrencyCode": "USD",
+      "localAmount": 77.00,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    },
+    {
+      "date": "2015-05-04T03:17:36Z",
+      "vendorName": "TROPHY CUPCAKES",
+      "expenseType": {
+        "groupCode": "010",
+        "groupDescription": "MEAL",
+        "code": "ME10",
+        "description": "Business - Client or Non Client"
+      },
+      "originalAmount": 90.65,
+      "originalCurrencyCode": "USD",
+      "localAmount": 90.65,
+      "localCurrencyCode": "USD",
+      "exchangeRate": 1,
+      "creditCardTransactionNumber": "123",
+      "location": {
+        "countryName": "UNITED STATES",
+        "countryCode": "US",
+        "regionCode": "NY",
+        "cityName": "NEW YORK CITY"
+      },
+      "fromDate": "2015-07-03T03:17:36.073Z",
+      "toDate": "2015-07-03T03:17:36.073Z"
+    }
+   ]
+}

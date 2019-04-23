@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <title>zepto listas</title>
+    <meta name="description" content="texto de descripcion">
+
+	<!--LINKS ESTILOS -->
+	    <link href='http://fonts.googleapis.com/css?family=Francois+One|Open+Sans:400italic,400,800' rel='stylesheet'>
+    
+	    <link rel='stylesheet' href='http://sirenasxmayor.com.ar/s/final/css/default.css' />
+	    <link rel='stylesheet' href='http://sirenasxmayor.com.ar/s/final/css/formularios.css' />
+	    <style>
+
+	    </style>
+	<!-- /*/*/*/*/*/*/ -->
+
+	<!--SCRIPTS Y PLUGINS-->
+
+		<script src='http://zeptojs.com/zepto.min.js'></script>
+		<script src='http://zeptojs.com/touch.js'></script>
+
+		<script>
+		$(function(){//aca va el document readi function
+		});
+		</script>
+	<!-- /*/*/*/*/*/*/ -->
+</head>
+
+</head>
+<body>
+		<style>.delete { display: none; }</style>
+
+<ul id='items'>
+  <li>List item 1 <span class='delete'>DELETE</span></li>
+  <li>List item 2 <span class='delete'>DELETE</span></li>
+</ul>
+
+<script>
+// show delete buttons on swipe
+$('#items li').swipe(function(){
+  $('.delete').hide()
+  $('.delete', this).show()
+})
+
+// delete row on tapping delete button
+$('.delete').tap(function(){
+  $(this).parent('li').remove()
+})
+</script>
+</body>
+</html>

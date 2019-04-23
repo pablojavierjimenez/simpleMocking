@@ -1,0 +1,255 @@
+{
+  "fullName": "Will Swenson",
+  "currencyCode": "USD",
+  "personnelNumber": "00141601",
+  "companyCode": "1800",
+  "company": "Deloitte Services LP",
+  "costCenter": "180000439",
+  "isFederal": true,
+  "userCountry": "US",
+  "mileageUnit": "MILES",
+  "userVariant": "",
+  "isOwnUser": true,
+  "loggedInUserRole": "FIRMWIDE_KEYER",
+  "email": "MSUBRAMANIYAN@DELOITTE.COM",
+  "firstName": "Will",
+  "lastName": "Swenson",
+  "location": "EE.UU.",
+  "middleName": "",
+  "title": "II-E OP PROOFREADING",
+  "expenseTypesDocPath": null,
+  "ttaFlag": "1",
+  "teaFlag": "1",
+  "ctaFlag": "",
+  "rqtFlag": true,
+  "gpsFlag": false,
+  "personalItems": {
+    "expensesCount": 0,
+    "description": "",
+    "currency": "",
+    "amount": 0.00,
+    "blacklistedVendors": []
+  },
+  "personalExternalLinks": {
+    "amexReconcileURL": "https://ds4expense.deloitte.com/reports/App_UI/amex-report?reportFor=00141601",
+    "expenseTypeMappingLink": "https://deloittenet.deloitte.com/About/Policies/Pages/Expense_Type_Description.aspx"
+  },
+  "permissions": [
+    "alerts.dismiss",
+    "amex.links",
+    "expenses.outstanding.modify",
+    "expenses.personal.modify",
+    "expenses.report.modify",
+    "personalization.groups.modify",
+    "personalization.rules.modify",
+    "preferences.modify",
+    "receipts.modify",
+    "reports.attachments.modify",
+    "reports.modify"
+  ],
+  "preferences": {
+    "isFirstTimeUser": false,
+    "displayNews": false,
+    "maxGroupMembersCount": 99
+  },
+  "globalHeader": [
+    {
+      "menuTitle": "GPS Guidance",
+      "iconUrl": "~/Images/icons/ic_federal_guidance.svg",
+      "maxLines": 5,
+      "format": "VERTICAL",
+      "menuCategory": [
+        {
+          "menuCategoryName": "GPS Guidance",
+          "displayOrder": 1,
+          "menuItem": [
+            {
+              "displayName": "GPS Time Charging Guidance",
+              "url": "https://deloittenet.deloitte.com/PC/PracticeComm/Industries/HSG/Federal/Pages/TotalTimeGuidanceoncharging.aspx",
+              "iconUrl": "",
+              "displayOrder": 12,
+              "type": "LINK"
+            },
+            {
+              "displayName": "GPS Expense Guidance",
+              "url": "https://deloittenet.deloitte.com/PC/PracticeComm/Industries/HSG/Federal/Pages/FederalExpenseChargingGuidance.aspx",
+              "iconUrl": "",
+              "displayOrder": 13,
+              "type": "LINK"
+            },
+            {
+              "displayName": "GPS Per Diem Lookup",
+              "url": "https://uswasgwp.deloitte.com/sap/bc/ui5_ui5/sap/zem_plookup/index.html",
+              "iconUrl": "",
+              "displayOrder": 14,
+              "type": "LINK"
+            },
+            {
+              "displayName": "Call 1-877-TO-CMPLY",
+              "url": "18778626759",
+              "iconUrl": "Images/Assets/LandingPage/ic_phone.svg",
+              "displayOrder": 15,
+              "type": "CALL"
+            },
+            {
+              "displayName": "Ask the GPS Compliance Advice Team",
+              "url": "https://selfticket.deloittenet.deloitte.com/supportrequesthome.aspx?catID=5",
+              "iconUrl": "",
+              "displayOrder": 15,
+              "type": "LINK"
+            }
+          ]
+        },
+        {
+          "menuCategoryName": "GPS Policy",
+          "displayOrder": 2,
+          "menuItem": [
+            {
+              "displayName": "GPS Time Reporting (DPM34510)",
+              "url": "https://techlib.deloitte.com/default.aspx?view=content&id=2_327062",
+              "iconUrl": "",
+              "displayOrder": 16,
+              "type": "LINK"
+            },
+            {
+              "displayName": "GPS Expense Reimbursement (DPM34520)",
+              "url": "https://techlib.deloitte.com/default.aspx?view=content&id=2_327061",
+              "iconUrl": "",
+              "displayOrder": 17,
+              "type": "LINK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menuTitle": "Firm Policy & Support",
+      "iconUrl": "~/Images/icons/ic_firm_policy.svg",
+      "maxLines": 5,
+      "format": "VERTICAL",
+      "menuCategory": [
+        {
+          "menuCategoryName": "Time and Expense Policies And Help",
+          "displayOrder": 1,
+          "menuItem": [
+            {
+              "displayName": "DTE Help",
+              "url": "https://myhelp.deloitte.com/dte_new/index.html",
+              "iconUrl": "",
+              "displayOrder": 1,
+              "type": "LINK"
+            },
+            {
+              "displayName": "2017 Reimbursement Date",
+              "url": "https://deloittenet.deloitte.com/WT/Apps/TE/Documents/2017 Expense Report Deadlines_US.xlsx",
+              "iconUrl": "",
+              "displayOrder": 2,
+              "type": "LINK"
+            },
+            {
+              "displayName": "Selecting an Expense Type",
+              "url": "https://www.deloittenet.com/Services/MyTimeExpense/Expense_Type_Directory.htm",
+              "iconUrl": "",
+              "displayOrder": 3,
+              "type": "LINK"
+            },
+            {
+              "displayName": "AMEX Reconciliation Guide",
+              "url": "https://deloittenet.deloitte.com/WT/CorpCard/Pages/ReconcileAmericanExpressAccount.aspx",
+              "iconUrl": "",
+              "displayOrder": 4,
+              "type": "LINK"
+            },
+            {
+              "displayName": "Expense FAQs",
+              "url": "https://deloittenet.deloitte.com/About/Policies/Admin/Pages/ExpenseReimbursementFAQs.aspx",
+              "iconUrl": "",
+              "displayOrder": 5,
+              "type": "LINK"
+            },
+            {
+              "displayName": "AMEX Corporate Programs",
+              "url": "https://deloittenet.deloitte.com/WT/CorpCard/Pages/AmericanExpress.aspx",
+              "iconUrl": "",
+              "displayOrder": 6,
+              "type": "LINK"
+            },
+            {
+              "displayName": "Expense Policy",
+              "url": "https://www.deloittenet.com/AboutDeloitte/Firm_Policies_Func_KM/Admin_Policy/US/500_Time_Travel_Expense/520ExpenseReimbursement122803.htm",
+              "iconUrl": "",
+              "displayOrder": 7,
+              "type": "LINK"
+            },
+            {
+              "displayName": "Global Project Work",
+              "url": "https://deloittenet.deloitte.com/About/Bus/Global/Pages/LPXcodes.aspx",
+              "iconUrl": "",
+              "displayOrder": 8,
+              "type": "LINK"
+            },
+            {
+              "displayName": "Time Policy",
+              "url": "https://www.deloittenet.com/AboutDeloitte/Firm_Policies_Func_KM/Admin_Policy/US/500_Time_Travel_Expense/Apr510TimeReporting_approvedJune2002.htm",
+              "iconUrl": "",
+              "displayOrder": 10,
+              "type": "LINK"
+            }
+          ]
+        },
+        {
+          "menuCategoryName": "Get Support",
+          "displayOrder": 2,
+          "menuItem": [
+            {
+              "displayName": "Create a Ticket",
+              "url": "https://servicedesk.deloittenet.deloitte.com/CAisd/pdmweb.exe?OP=CREATE_NEW+FACTORY=cr+PRESET=type%3AI",
+              "iconUrl": "Images/Assets/LandingPage/ic_spanner.svg",
+              "displayOrder": 9,
+              "type": "LINK"
+            },
+            {
+              "displayName": "Call DTE Application Support",
+              "url": "6157382827",
+              "iconUrl": "Images/Assets/LandingPage/ic_phone.svg",
+              "displayOrder": 10,
+              "type": "CALL"
+            },
+            {
+              "displayName": "Chat with DTE Application Support",
+              "url": "https://callcenter.chat.deloitte.com/callcenterchat/default.aspx?LinkText=DTE|Location=DTE",
+              "iconUrl": "Images/Assets/LandingPage/ic_chat.svg",
+              "displayOrder": 11,
+              "type": "CHAT"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "compatibleExpenseTypes": [
+    [
+      "RC10",
+      "EN05",
+      "EN10",
+      "FP05",
+      "FL05",
+      "GI15"
+    ],
+    [
+      "HODE",
+      "HOTE"
+    ],
+    [
+      "ME05",
+      "ME10",
+      "ME15",
+      "ME25",
+      "ME30",
+      "ME35",
+      "ME40",
+      "ME55"
+    ]
+  ],
+  "expenseDateLimit": 1
+}

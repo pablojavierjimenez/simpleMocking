@@ -1,0 +1,31 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'0afa8433-32e6-4494-9008-b49608b9bc70')/Items(4)",
+                    "uri": "https://ddnet2.hosting.deloitte.com/sites/MDAReports/_api/Web/Lists(guid'0afa8433-32e6-4494-9008-b49608b9bc70')/Items(4)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.BookmarksListItem"
+                },
+                "ReportName": {
+                    "__metadata": {
+                        "id": "d6b9e843-b44b-4ffb-b3f3-fe2211c36f73",
+                        "type": "SP.Data.MDAReportsListItem"
+                    },
+                    "Title": "2017-Q1-Report1",
+                    "Id": 1
+                },
+                "User": {
+                    "__metadata": {
+                        "id": "c87ff27d-ddb9-4e30-af85-4db53fc84701",
+                        "type": "SP.Data.UserInfoItem"
+                    },
+                    "Id": 42
+                },
+                "Id": 4,
+                "ID": 4
+            }
+        ]
+    }
+}

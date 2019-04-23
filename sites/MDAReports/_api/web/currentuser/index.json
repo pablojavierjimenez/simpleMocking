@@ -1,0 +1,307 @@
+{
+  "d": {
+    "__metadata": {
+      "id": "https://devfpc.sharepoint.com/_api/Web/GetUserById(10)",
+      "uri": "https://devfpc.sharepoint.com/_api/Web/GetUserById(10)",
+      "type": "SP.User"
+    },
+    "Groups": {
+      "results": [
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(29)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(29)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(29)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(29)/Users"
+            }
+          },
+          "Id": 29,
+          "IsHiddenInUI": false,
+          "LoginName": "Approvers",
+          "Title": "MDAReports_Admins",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "Members of this group can edit and approve pages, list items, and documents.",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "Team Site Owners",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(27)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(27)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(27)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(27)/Users"
+            }
+          },
+          "Id": 27,
+          "IsHiddenInUI": false,
+          "LoginName": "Designers",
+          "Title": "Designers",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "Members of this group can edit lists, document libraries, and pages in the site. Designers can create Master Pages and Page Layouts in the Master Page Gallery and can change the behavior and appearance of each site in the site collection by using master pages and CSS files.  ",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "Team Site Owners",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(28)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(28)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(28)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(28)/Users"
+            }
+          },
+          "Id": 28,
+          "IsHiddenInUI": false,
+          "LoginName": "Hierarchy Managers",
+          "Title": "Hierarchy Managers",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "Members of this group can create sites, lists, list items, and documents. ",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "Team Site Owners",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(19)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(19)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(19)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(19)/Users"
+            }
+          },
+          "Id": 19,
+          "IsHiddenInUI": false,
+          "LoginName": "Limited Access System Group",
+          "Title": "Limited Access System Group",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "Limited Access System Group",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "System Account",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(36)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(36)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(36)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(36)/Users"
+            }
+          },
+          "Id": 36,
+          "IsHiddenInUI": false,
+          "LoginName": "MDAReportsAdmin",
+          "Title": "MDAReportsAdmin",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "Globant DevFPC",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(35)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(35)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(35)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(35)/Users"
+            }
+          },
+          "Id": 35,
+          "IsHiddenInUI": false,
+          "LoginName": "MDAReportsVisitors",
+          "Title": "MDAReportsVisitors",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "Globant DevFPC",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(31)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(31)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(31)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(31)/Users"
+            }
+          },
+          "Id": 31,
+          "IsHiddenInUI": false,
+          "LoginName": "Quick Deploy Users",
+          "Title": "Quick Deploy Users",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "Members of this group can schedule Quick Deploy jobs.",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "Team Site Owners",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(30)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(30)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(30)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(30)/Users"
+            }
+          },
+          "Id": 30,
+          "IsHiddenInUI": false,
+          "LoginName": "Restricted Readers",
+          "Title": "Restricted Readers",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "Members of this group can view pages and documents, but cannot view historical versions or review user rights information.",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "Team Site Owners",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(16)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(16)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(16)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(16)/Users"
+            }
+          },
+          "Id": 16,
+          "IsHiddenInUI": false,
+          "LoginName": "SharingLinks.aa2fdd18-db2d-48ea-86e9-29d85245ce9a.AnonymousEdit.ae587d75-94d8-4b64-a794-a2a61c9ab833",
+          "Title": "SharingLinks.aa2fdd18-db2d-48ea-86e9-29d85245ce9a.AnonymousEdit.ae587d75-94d8-4b64-a794-a2a61c9ab833",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "This group is for AnonymousEdit sharing links on item 'Shared Documents/PresentaciónDesayunos/index.html'",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "System Account",
+          "RequestToJoinLeaveEmailSetting": null
+        },
+        {
+          "__metadata": {
+            "id": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(26)",
+            "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(26)",
+            "type": "SP.Group"
+          },
+          "Owner": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(26)/Owner"
+            }
+          },
+          "Users": {
+            "__deferred": {
+              "uri": "https://devfpc.sharepoint.com/_api/Web/SiteGroups/GetById(26)/Users"
+            }
+          },
+          "Id": 26,
+          "IsHiddenInUI": false,
+          "LoginName": "Style Resource Readers",
+          "Title": "Style Resource Readers",
+          "PrincipalType": 8,
+          "AllowMembersEditMembership": false,
+          "AllowRequestToJoinLeave": false,
+          "AutoAcceptRequestToJoinLeave": false,
+          "Description": "Use this group to give read permissions to the Master Page gallery and Style Library, which are required to browse this site. Do not delete this group.",
+          "OnlyAllowMembersViewMembership": true,
+          "OwnerTitle": "Team Site Owners",
+          "RequestToJoinLeaveEmailSetting": null
+        }
+      ]
+    },
+    "Id": 10,
+    "LoginName": "i:0#.f|membership|devfpc@devfpc.onmicrosoft.com",
+    "Title": "Globant DevFPC",
+    "Email": "devFPC@devfpc.onmicrosoft.com"
+  }
+}

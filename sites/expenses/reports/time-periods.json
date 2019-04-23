@@ -1,0 +1,36 @@
+{
+  "currentPeriod": {
+    "number": "08",
+    "submissionCutoffDate": "2016-04-16T00:00:00",
+    "reimbursementCurrency": "USD",
+    "reimbursementAmount": 475.00,
+    "reimbursementDaysLeft": "0",
+    "startDate": "2016-04-03T00:00:00",
+    "endDate": "2016-04-16T00:00:00",
+    "amexDueDate": "2016-05-11T00:00:00"
+  },
+  "previousPeriod": {
+    "number": "",
+    "startDate": null,
+    "endDate": null,
+    "amexDueDate": null
+  },
+  "availableFilters": [
+    {
+      "code": "90",
+      "description": "Last 3 months"
+    },
+    {
+      "code": "2016",
+      "description": "2016"
+    },
+    {
+      "code": "2015",
+      "description": "2015"
+    },
+    {
+      "code": "2014",
+      "description": "2014"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"__metadata":{"type":"SP.View"},"Title":"2018","PersonalView":false,"ViewQuery":"\"<Query><Where><Eq><FieldRef Name=\\\"Year\\\" /><Value Type=\\\"Text\\\">2018</Value></Eq></Where></Query>\""}

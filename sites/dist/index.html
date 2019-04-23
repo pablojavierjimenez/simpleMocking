@@ -1,0 +1,48 @@
+<head>
+  <link rel="import" href="http://localhost:3000/import.html">
+  <!-- <link rel="import" href="import.html"> -->
+  <style>
+    html{
+      margin: 0;
+      padding: 0;
+    }
+    *{
+      margin: 0;
+      padding: .5rem;
+      box-sizing: border-box;
+    }
+    body{
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+    }
+    section.header{
+      min-height: 3rem;
+      background-color: black;
+      color:white;
+    }
+  </style>
+</head>
+
+<body>
+  <section class="header">
+    <h1>hola gatos</h1>
+  </section>
+
+  <section id="container"></sectioin>
+
+  <section>
+    <img src="https://loremflickr.com/500/240/cat" alt="">
+  </section>
+
+  <script>
+    var link = document.querySelector('link[rel="import"]');
+
+    // Clone the <template> in the import.
+    var template = link.import.querySelector('template');
+    var clone = document.importNode(template.content, true);
+
+    document.querySelector('#container').prepend(clone);
+  </script>
+</body>

@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "Patrick",
+    "middleName": "",
+    "lastName": "Gold",
+    "email": "pgold@deloitte.com",
+    "practice": "Consulting",
+    "title": "Senior Front End Web Developer",
+    "location": "Seattle, WA",
+    "avatar": "images/avatar.png"
+  },
+  {
+    "firstName": "Mark",
+    "middleName": "",
+    "lastName": "Palfreeman",
+    "email": "mpalfreeman@deloitte.com",
+    "practice": "Consulting",
+    "title": "Associate Front End Web Developer",
+    "location": "Seattle, WA",
+    "avatar": "https://mug0.assets-yammer.com/mugshot/images/75x75/lLQfDVXnDTTTLL5ZNbvLBBSpzwPtwnvw"
+  },
+  {
+    "firstName": "Emily",
+    "middleName": "",
+    "lastName": "Painter",
+    "email": "epainter@deloitte.com",
+    "practice": "Consulting",
+    "title": "Associate Front End Web Developer",
+    "location": "Seattle, WA",
+    "avatar": "images/avatar.png"
+  },
+  {
+    "firstName": "Jake",
+    "middleName": "Daniel",
+    "lastName": "Chapman",
+    "email": "jakchapman@deloitte.com",
+    "practice": "Consulting",
+    "title": "Front End Web Developer",
+    "location": "Seattle, WA",
+    "avatar": "https://mug0.assets-yammer.com/mugshot/images/75x75/qM2H4rtKGLHs4ldwrDPXcRcDvn0tlkTN"
+  },
+  {
+    "firstName": "Jesse",
+    "middleName": "",
+    "lastName": "Weed",
+    "email": "jeweed@deloitte.com",
+    "practice": "Consulting",
+    "title": "Web Development Competancy Lead",
+    "location": "Seattle, WA",
+    "avatar": "https://mug0.assets-yammer.com/mugshot/images/75x75/GqPBsVLDJBDr0pScwTNJL1pFntC3DmjV"
+  },
+  {
+    "firstName": "R.J.",
+    "middleName": "",
+    "lastName": "LaCount",
+    "email": "rjlacount@deloitte.com",
+    "practice": "Consulting",
+    "title": "Front End Web Developer",
+    "location": "Seattle, WA",
+    "avatar": "https://mug0.assets-yammer.com/mugshot/images/75x75/32z3scVK0DdwnzjT7hcDLXJ7V8FVq0jj"
+  }
+]

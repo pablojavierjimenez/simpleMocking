@@ -1,0 +1,187 @@
+[
+  {
+    "weekInformation": "2013-05-18T00:00:00",
+    "employee": {
+      "amount": 9670,
+      "currencyCode": "USD",
+      "date": "2013-05-31T00:00:00"
+    },
+    "amex": {
+      "amount": 0,
+      "currencyCode": "",
+      "date": "2013-05-31T00:00:00"
+    },
+    "reports": [
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      },
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      }
+    ]
+  },
+  {
+    "weekInformation": "2013-05-04T00:00:00",
+    "employee": {
+      "amount": 331794,
+      "currencyCode": "USD",
+      "date": "2013-05-17T00:00:00"
+    },
+    "amex": {
+      "amount": 0,
+      "currencyCode": "",
+      "date": "2013-05-17T00:00:00"
+    },
+    "reports": [
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      },
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      }
+    ]
+  },
+  {
+    "weekInformation": "2013-04-20T00:00:00",
+    "employee": {
+      "amount": 4195.63,
+      "currencyCode": "USD",
+      "date": "2013-05-03T00:00:00"
+    },
+    "amex": {
+      "amount": 0,
+      "currencyCode": "",
+      "date": "2013-05-03T00:00:00"
+    },
+    "reports": [
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      },
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      }
+    ]
+  },
+  {
+    "weekInformation": "2013-04-06T00:00:00",
+    "employee": {
+      "amount": 328205,
+      "currencyCode": "USD",
+      "date": "2013-04-19T00:00:00"
+    },
+    "amex": {
+      "amount": 0,
+      "currencyCode": "",
+      "date": "2013-04-19T00:00:00"
+    },
+    "reports": [
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      },
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      }
+    ]
+  },
+  {
+    "weekInformation": "2013-03-23T00:00:00",
+    "employee": {
+      "amount": 327505,
+      "currencyCode": "USD",
+      "date": "2013-04-05T00:00:00"
+    },
+    "amex": {
+      "amount": 0,
+      "currencyCode": "",
+      "date": "2013-04-05T00:00:00"
+    },
+    "reports": [
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      },
+      {
+        "reportNumber": "000111231231",
+        "date": "2013-05-18T00:00:00",
+        "currencyCode": "USD",
+        "importedAmount": 1200.5,
+        "manualEntryAmount": 879.34,
+        "paymentsAmount": 2079.84,
+        "complianceAdjustmentsAmount": 123.45,
+        "amount": 7777.77,
+        "description": "test"
+      }
+    ]
+  }
+]

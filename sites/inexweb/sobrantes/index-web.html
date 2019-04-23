@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+
+  <!-- METAS y TITULO-->
+    <meta charset="utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <title>blog offline</title>
+    <meta name="description" content="descripcion">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <!-- /*/*/*/*/*/*/ -->
+
+  <!-- METAS OpenGraph-->
+    <meta property="og:title" content="TITULO" />
+    <meta property="og:type" content="video.movie" />
+    <meta property="og:url" content="http://www.imdb.com/title/tt0117500/" />
+    <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" />
+    <meta property="og:description"  content="aca podes poner todo el texto que quieras para la descripcion" />
+  <!-- /*/*/*/*/*/*/ -->
+
+  <!--LINKS graficos -->
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+  <!-- /*/*/*/*/*/*/ -->
+
+  <!--LINKS ESTILOS -->
+    <link href="http://fonts.googleapis.com/css?family=Francois+One|Open+Sans:400italic,400,800" rel="stylesheet">
+    <link  rel="stylesheet" href="css/inex-reset.css" />
+    <link rel="stylesheet" href="css/default.css" />
+  <!-- /*/*/*/*/*/*/ -->
+
+  <!--SCRIPTS Y PLUGINS-->
+  <link rel="stylesheet" href="estilo.css">
+	<link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
+ 	<script type="text/javascript" src="jquery-min.js" ></script>
+  	<script type="text/javascript" src="publicar-post.js" ></script>
+
+  <!-- /*/*/*/*/*/*/ -->
+</head>
+<body>
+<section class="page">
+	<header class="header">
+		<div>
+			<img src="img/inexsistencia.jpg" alt="" class="logo">
+			<h1 class="titulo">nombre pagina</h1>
+		</div>
+	</header>
+	<nav class="nav">
+		<ul class="menu">
+			<li class="menu-item"><a href="">boton1</a></li>
+			<li class="menu-item"><a href="">boton2</a></li>
+			<li class="menu-item"><a href="">boton3</a></li>
+			<li class="menu-item"><a href="">boton4</a></li>
+			<li class="menu-item"><a href="">boton5</a></li>
+		</ul>
+	</nav>
+	<section class="cuerpo">
+		<section class='box post-container'>
+			<form action='' method='POST' id='formulario' class='post-form'>
+			    <input type="text" class='post-input' id='titulo-post' name='titulo-post' placeholder="Título" />
+                <br />
+                <textarea class='form-imput' name='contenido-post' id='contenido-post' rows="4" cols="40" placeholder="Que estas flashando..."></textarea>
+                <div class='upload left'>
+					<input type="file" class='form-imput' id='foto' name='foto' value='elige una foto' title='' placeholder="Título" />
+				</div>
+				<!--<div id='publidar-btn'>PUBLICAR</div>-->
+			    <input type='buttom' value='Publicar' id='publidar-btn' class='form-imput publicar right'/>
+			</form>
+		</section>
+		<section id="post-list">
+			<article class="box">
+				<img src="img/placeholder.png" alt="">
+				<h2>esto es titulo1</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, odio, natus, quia, ex et impedit molestias corporis molestiae iure aspernatur possimus quidem qui blanditiis in odit deserunt nam distinctio voluptates.</p>
+			</article>
+		</section>		
+	</section>
+	<aside class="aside">
+
+	</aside>
+	<footer class="footer">
+	</footer>
+</section>
+</body>
+</html>
