@@ -60,6 +60,9 @@ function changePortIfIsSettedByArguments(actualPort, processArgs) {
  * @param {object} processArgs object with all parameters recived by argument on console
  */
 function changeBaseDirectoryIfIsSettedByArguments(actualBaseDirectory, processArgs) {
+
+  var defaultDir = `./${DEFAULT_CONFIG.baseHostDir}/${DEFAULT_CONFIG.baseHostDir[0]}/${DEFAULT_CONFIG.staticsDir}/`;
+  var usenDir = `./${USER_CONFIG.baseHostDir}/${USER_CONFIG.baseHostDir[0]}/${USER_CONFIG.staticsDir}/`;
   console.log('actualbasedirectory :: ->', actualBaseDirectory.length);
   var finalDirectory = actualBaseDirectory[0],
   dirRecivedByArgs = '';
