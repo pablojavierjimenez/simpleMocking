@@ -12,6 +12,6 @@
     "staticsDir": "./host/exampleSiteDir/public/",
     "baseApiPath": "",
     "allowDomine": "http://localhost",
-    "allowDominePort": "5000"
+    "allowDominePort": "3000"
   }
 }
