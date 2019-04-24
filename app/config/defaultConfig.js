@@ -1,10 +1,13 @@
 const defaultConfig = {
-  baseHostDir: "host",
-  baseMockDir: ["exampleSiteDir"],
-  staticsDir: "public",
-  baseApiPath: "", //default '', pero normalmente aca tendria que poner '/api'
-  allowDomine: "http://localhost", // que dominio puede hacerme request 'http://10.26.131.106'
-  allowDominePort: "5000", // desde que puerto puede hacerme request
+  siteConfig: {
+    baseHostDir: "Server",
+    baseMockDir: ["exampleSiteDir"],
+    staticsDir: "public",
+    baseApiPath: "", //default '', pero normalmente aca tendria que poner '/api'
+    runningAppPort: "3000",
+    allowDomine: "http://localhost", // que dominio puede hacerme request 'http://10.26.131.106'
+    allowDominePort: "5000", // desde que puerto puede hacerme request
+  },
   errorMessage: {
     status: "404",
     code: "1000",
