@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>inex web</title>
+	<!--LINKS ESTILOS -->
+	    <link href='http://fonts.googleapis.com/css?family=Francois+One|Open+Sans:400italic,400,800' rel='stylesheet'>
+	    <link rel='stylesheet' href='http://sirenasxmayor.com.ar/s/final/css/inex-reset.css' />
+	    <link rel='stylesheet' href='http://sirenasxmayor.com.ar/s/final/css/default.css' />
+	    <link rel='stylesheet' href='http://sirenasxmayor.com.ar/s/final/css/formularios.css' />
+	    <style>
+			input{margin-top: .6em;}
+			.bg-r{background-color: rgba(200,90,90, .5); width: 50%;}
+			.bg-g{background-color:rgba(90,200,90, .5); width: 50%;}
+	    </style>
+	<!-- /*/*/*/*/*/*/ -->
+
+	<!--SCRIPTS Y PLUGINS-->
+		<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js'></script>
+		<script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js'></script>
+		  <script>
+		  	!window.JQuery && document.write("<script src='http://zeptojs.com/zepto.min.js'><\/script>");
+		  </script>
+		<script>
+		$(function(){
+
+			var localUsrDatos ={};
+
+			if (localStorage.usrDatos!=undefined) {
+
+					localUsrDatos = JSON.parse(localStorage.usrDatos);
+
+						console.log('login nombre tiene -' + localUsrDatos.usrNombre);
+						console.log('login mail tiene -' + localUsrDatos.usrMail);
+						console.log('login psw tiene -' + localUsrDatos.usrContrasenia);
+
+				/* //PREGUNTAR por que no funciono
+				$.each(localUsrDatos, function(key, val) {
+					login.key = val;
+					console.log("la key fue: "+key+" que a u vez contiene el valor: "+login.key);
+				});
+				console.log("login: " + login);	*/
+
+				var loginForm ="<h1>hola "+localUsrDatos.usrNombre+"</h1>"+
+								"<form action='' class='box'>"+
+									"<input type='text' placeholder='mail'  id='usrMail' val=''/>"+
+									"<input type='password' placeholder='contraseña'  id='usrContrasenia' />"+
+									"<div class='box'><input type='button' value='login' id='login' /></div>"+
+								"</form>";
+
+				$('#contenido-form').append(loginForm);
+			}
+			else{
+				var registroForm = "<h1>REGISTRATE</h1>"+
+									"<form action='' class='box' id>"+
+										"<input type='text' placeholder='nombre de usuario' id='usrNombre'>"+
+										"<input type='text' placeholder='mail'  id='usrMail'>"+
+										"<input type='password' placeholder='contraseña'  id='usrContrasenia'>"+
+										"<div class='box'><input type='button' value='registrarme' id='registro'></div>"+
+									"</form>";
+
+				$('#contenido-form').append(registroForm);
+			};
+
+			$('#registro').click(function(){
+				var usrDatos ={};
+				usrDatos.usrNombre 		= $('#usrNombre').val();
+				usrDatos.usrMail 		= $('#usrMail').val();
+				usrDatos.usrContrasenia = $('#usrContrasenia').val();
+					console.log('se creo ' + usrDatos.usrNombre);
+					console.log('se creo ' + usrDatos.usrMail);
+					console.log('se creo ' + usrDatos.usrContrasenia);
+
+				localStorage.usrDatos = JSON.stringify(usrDatos);
+
+				window.location.assign("index.html");
+			});
+
+			$('#login').click(function(){
+
+				if ($('#usrMail').val()==localUsrDatos.usrMail && $('#usrContrasenia').val()==localUsrDatos.usrContrasenia)
+					{
+						sessionStorage.login = true;
+						window.location.assign("blog.html");}
+					else
+						{	$('#error').remove();
+							$('h1').after('<span style="color:red" id="error">algo esta mal</span>');$('#error').fadeOut(3000);}
+
+			});
+
+		});
+
+		</script>
+	<!-- /*/*/*/*/*/*/ -->
+
+</head>
+<body ng-app>
+	<section class='box' id='contenido-form'>
+
+	</section>
+
+</body>
+</html>

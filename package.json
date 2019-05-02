@@ -4,11 +4,10 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "node server.js",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
+    "start": "node ./Server",
+    "totalexpense": "node ./Server -s totalexpense",
+    "expense": "node ./Server -s expense -d expenses",
+    "ts-node": "tsc-node main.ts"
   },
   "private": true,
   "dependencies": {

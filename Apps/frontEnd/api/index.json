@@ -1,0 +1,18 @@
+{
+  "hi": "you are now in the DTE expens fantastic and magic world, ",
+  "posibles endpoints": [
+    "http://localhost:3000/api/ping",
+    "http://localhost:3000/api/hotelListData",
+    "http://localhost:3000/api/albums",
+    "http://localhost:3000/api/post",
+    "http://localhost:3000/api/post/1",
+    "http://localhost:3000/api/post/2"
+  ],
+  "siteConfig": {
+    "baseMockDir": "./host/exampleSiteDir/",
+    "staticsDir": "./host/exampleSiteDir/public/",
+    "baseApiPath": "",
+    "allowDomine": "http://localhost",
+    "allowDominePort": "3000"
+  }
+}

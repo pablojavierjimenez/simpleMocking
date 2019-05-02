@@ -1,0 +1,40 @@
+{
+	"hotels":[
+		{
+      "id":"1",
+			"name":"Hotel Emperador",
+			"stars":"3",
+			"price":"1596"
+		},
+		{
+      "id":"2",
+			"name":"Petit Palace San Bernardo",
+			"stars":"4",
+			"price":"2145"
+		},
+		{
+      "id":"3",
+			"name":"Hotel Nuevo Boston",
+			"stars":"2",
+			"price":"861"
+    },
+    {
+      "id":"4",
+			"name":"Royal Hotel",
+			"stars":"3",
+			"price":"1596"
+		},
+		{
+      "id":"5",
+			"name":"Green Garden Hotel",
+			"stars":"4",
+			"price":"2145"
+		},
+		{
+      "id":"6",
+			"name":"The Westin Palace Madrid",
+			"stars":"5",
+			"price":"861"
+		}
+	]
+}

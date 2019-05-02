@@ -1,1 +1,0 @@
-{"query":{"__metadata":{"type":"SP.CamlQuery"},"ViewXml":"<View><Query><Where><Or><Contains><FieldRef Name='Title'></FieldRef><Value Type='Text'>hola</Value></Contains><Contains><FieldRef Name='ReportDescription'></FieldRef><Value Type='Note'>hola</Value></Contains></Or></Where></Query></View>"}}

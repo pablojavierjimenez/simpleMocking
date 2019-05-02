@@ -1,0 +1,33 @@
+{
+  "sitesConfig": [
+    {
+      "sitesKeyName": "expense",
+      "baseHostDir": "DeloitteSites",
+      "baseMockDir": [
+        "expenses"
+      ],
+      "runningAppPort": "5555",
+      "staticsDir": "",
+      "baseApiPath":  ""',
+      "allowDomine": "",
+      "allowDominePort": "",
+    },
+    {
+      "sitesKeyName": "totalexpense",
+      "baseHostDir": "DeloitteSites",
+      "baseMockDir": [
+        "expenses"
+      ],
+      "runningAppPort": "5000",
+      "staticsDir": "",
+      "baseApiPath": ""',
+      "allowDomine": "",
+      "allowDominePort": "",
+    }
+  ],
+  "errorMessage": {
+  "status": "404",
+  "code": "1000",
+  "message": "FROM USER CONFIG :: -> No se encontro este recurso, quiza no haya una carpeta o rchivo en el cuall se encuentren los datos Mockeado"
+  }
+}
